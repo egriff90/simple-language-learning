@@ -1,0 +1,2966 @@
+[
+ {
+  "id": "pt-55752-10068",
+  "cloze": "Que ___ é essa que eu nunca vi?",
+  "answer": "amizade",
+  "text": "Que amizade é essa que eu nunca vi?",
+  "translation": "What friendship is this that I've never seen?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-31971-02533",
+  "cloze": "Que lhe ___, minha mãe?",
+  "answer": "parece",
+  "text": "Que lhe parece, minha mãe?",
+  "translation": "What do you think, mother?",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-16425-00243",
+  "cloze": "E a senhora sabe para ___ vai?",
+  "answer": "onde",
+  "text": "E a senhora sabe para onde vai?",
+  "translation": "And do you know where you're going, madam?",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-24401-01653",
+  "cloze": "E essa ___ onde está?",
+  "answer": "outra",
+  "text": "E essa outra onde está?",
+  "translation": "And where is that other one?",
+  "source": {
+   "author": "Almeida Garrett",
+   "title": "Viagens na Minha Terra",
+   "year": 1846
+  }
+ },
+ {
+  "id": "pt-55682-08416",
+  "cloze": "O certo é que a alcunha ___.",
+  "answer": "ficou",
+  "text": "O certo é que a alcunha ficou.",
+  "translation": "The fact is that the nickname stuck.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-69187-10923",
+  "cloze": "Ainda bem que não tinham ___!",
+  "answer": "filhos",
+  "text": "Ainda bem que não tinham filhos!",
+  "translation": "Just as well they had no children!",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-40409-04799",
+  "cloze": "Eu não sei mais do que aí está ___.",
+  "answer": "escrito",
+  "text": "Eu não sei mais do que aí está escrito.",
+  "translation": "I know no more than what is written there.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-33056-04369",
+  "cloze": "Que ___ lhe fez ele?",
+  "answer": "mal",
+  "text": "Que mal lhe fez ele?",
+  "translation": "What harm did he do you?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-54829-07911",
+  "cloze": "Se eu ao menos ___ o que é que fiz!",
+  "answer": "soubesse",
+  "text": "Se eu ao menos soubesse o que é que fiz!",
+  "translation": "If only I knew what it is I did!",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-18220-01147",
+  "cloze": "Olha o que ___ a Bíblia!",
+  "answer": "diz",
+  "text": "Olha o que diz a Bíblia!",
+  "translation": "Look what the Bible says!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-16425-00622",
+  "cloze": "Pois isso é o que tu ___ fazer.",
+  "answer": "deves",
+  "text": "Pois isso é o que tu deves fazer.",
+  "translation": "Well, that's what you must do.",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-55752-10016",
+  "cloze": "Não foi ___ mais para que ele entendesse.",
+  "answer": "preciso",
+  "text": "Não foi preciso mais para que ele entendesse.",
+  "translation": "No more was needed for him to understand.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-31971-03429",
+  "cloze": "Isto é o que eu chamo ___!",
+  "answer": "sofrer",
+  "text": "Isto é o que eu chamo sofrer!",
+  "translation": "This is what I call suffering!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-54829-08062",
+  "cloze": "Como está a minha ___ mamãe?",
+  "answer": "querida",
+  "text": "Como está a minha querida mamãe?",
+  "translation": "How is my dear mama?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-55682-09022",
+  "cloze": "Faça de ___ que sou sua mãe.",
+  "answer": "conta",
+  "text": "Faça de conta que sou sua mãe.",
+  "translation": "Pretend that I am your mother.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-24401-01438",
+  "cloze": "Pois o ___ farei eu.",
+  "answer": "mesmo",
+  "text": "Pois o mesmo farei eu.",
+  "translation": "Well, I shall do the same.",
+  "source": {
+   "author": "Almeida Garrett",
+   "title": "Viagens na Minha Terra",
+   "year": 1846
+  }
+ },
+ {
+  "id": "pt-18220-01168",
+  "cloze": "Homem! está claro que há ___!",
+  "answer": "fome",
+  "text": "Homem! está claro que há fome!",
+  "translation": "Man! Clearly there is hunger!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-40409-04760",
+  "cloze": "Toda a ___ é essa.",
+  "answer": "diferença",
+  "text": "Toda a diferença é essa.",
+  "translation": "That is the whole difference.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-69187-10562",
+  "cloze": "Ah! é verdade! como você se ___?",
+  "answer": "chama",
+  "text": "Ah! é verdade! como você se chama?",
+  "translation": "Ah! that's right! What's your name?",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-55752-09936",
+  "cloze": "Você não anda bom do ___.",
+  "answer": "peito",
+  "text": "Você não anda bom do peito.",
+  "translation": "You haven't been well in the chest.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-16384-00022",
+  "cloze": "Eu sei de que se trata. É uma questão de ___.",
+  "answer": "família",
+  "text": "Eu sei de que se trata. É uma questão de família.",
+  "translation": "I know what it's about. It's a family matter.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Mandarim",
+   "year": 1880
+  }
+ },
+ {
+  "id": "pt-54829-08114",
+  "cloze": "Mas eu não ___ descrevê-lo.",
+  "answer": "quero",
+  "text": "Mas eu não quero descrevê-lo.",
+  "translation": "But I don't want to describe it.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-16425-00253",
+  "cloze": "Queres tu que eu lhe ___?",
+  "answer": "fale",
+  "text": "Queres tu que eu lhe fale?",
+  "translation": "Do you want me to speak to him?",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-40409-05437",
+  "cloze": "Olhe aí para o ___.",
+  "answer": "chão",
+  "text": "Olhe aí para o chão.",
+  "translation": "Look there at the floor.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-24401-01583",
+  "cloze": "Não me fez esse ___ a mim.",
+  "answer": "efeito",
+  "text": "Não me fez esse efeito a mim.",
+  "translation": "It didn't have that effect on me.",
+  "source": {
+   "author": "Almeida Garrett",
+   "title": "Viagens na Minha Terra",
+   "year": 1846
+  }
+ },
+ {
+  "id": "pt-55752-09780",
+  "cloze": "E como vamos de ___?",
+  "answer": "rezas",
+  "text": "E como vamos de rezas?",
+  "translation": "And how are we doing with prayers?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-69187-10453",
+  "cloze": "Que ___ pode lá você fazer ali?",
+  "answer": "diabo",
+  "text": "Que diabo pode lá você fazer ali?",
+  "translation": "What the devil can you do there?",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-55682-08346",
+  "cloze": "Éramos ___, e não me disse nada.",
+  "answer": "amigos",
+  "text": "Éramos amigos, e não me disse nada.",
+  "translation": "We were friends, and he told me nothing.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-55752-10258",
+  "cloze": "Quem sabe se não anda ___?",
+  "answer": "doente",
+  "text": "Quem sabe se não anda doente?",
+  "translation": "Who knows whether she isn't ill?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-33056-03973",
+  "cloze": "Eu tinha a ___ de ambos.",
+  "answer": "confiança",
+  "text": "Eu tinha a confiança de ambos.",
+  "translation": "I had the trust of both.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-40409-05306",
+  "cloze": "Tu, por ___, que fazes?",
+  "answer": "exemplo",
+  "text": "Tu, por exemplo, que fazes?",
+  "translation": "You, for example, what do you do?",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-18220-01169",
+  "cloze": "Eu não quero ___ o que há no Douro.",
+  "answer": "saber",
+  "text": "Eu não quero saber o que há no Douro.",
+  "translation": "I don't want to know what there is in the Douro.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-54829-07927",
+  "cloze": "Mas porque é que o senhor não foi ___ ao teatro?",
+  "answer": "ontem",
+  "text": "Mas porque é que o senhor não foi ontem ao teatro?",
+  "translation": "But why didn't you go to the theatre yesterday?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-55682-09020",
+  "cloze": "Tudo, tudo, ___ saber tudo.",
+  "answer": "queria",
+  "text": "Tudo, tudo, queria saber tudo.",
+  "translation": "Everything, everything, he wanted to know everything.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-69187-10451",
+  "cloze": "Isso é ___ de sua parte, sabe?",
+  "answer": "maldade",
+  "text": "Isso é maldade de sua parte, sabe?",
+  "translation": "That's wicked of you, you know?",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-55752-09944",
+  "cloze": "Estou com ___ de mamãe.",
+  "answer": "saudades",
+  "text": "Estou com saudades de mamãe.",
+  "translation": "I miss mama.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-33056-04106",
+  "cloze": "Vou ver a ___ com que ele vem, pensou ela.",
+  "answer": "cara",
+  "text": "Vou ver a cara com que ele vem, pensou ela.",
+  "translation": "I'll see what face he comes with, she thought.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-55682-08237",
+  "cloze": "Esse agora é o ___ particular.",
+  "answer": "motivo",
+  "text": "Esse agora é o motivo particular.",
+  "translation": "Now that is the private reason.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-31971-02239",
+  "cloze": "Eu não quero dizer que a confissão seja uma ___!",
+  "answer": "brincadeira",
+  "text": "Eu não quero dizer que a confissão seja uma brincadeira!",
+  "translation": "I don't mean to say that confession is a joke!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-16425-00537",
+  "cloze": "Tu não és ___ dele, não?",
+  "answer": "inimiga",
+  "text": "Tu não és inimiga dele, não?",
+  "translation": "You're not his enemy, are you?",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-55752-10240",
+  "cloze": "Cheguei a ter ___ de tudo e de todos.",
+  "answer": "ciúmes",
+  "text": "Cheguei a ter ciúmes de tudo e de todos.",
+  "translation": "I came to be jealous of everything and everyone.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-54829-08109",
+  "cloze": "Se ele estiver em casa não ___.",
+  "answer": "entro",
+  "text": "Se ele estiver em casa não entro.",
+  "translation": "If he's at home, I won't go in.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-40409-06435",
+  "cloze": "Eu só quero um ___.",
+  "answer": "pretexto",
+  "text": "Eu só quero um pretexto.",
+  "translation": "I only want a pretext.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-69187-11182",
+  "cloze": "Que se deixasse de ___!",
+  "answer": "asneiras",
+  "text": "Que se deixasse de asneiras!",
+  "translation": "He should stop talking nonsense!",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-16384-00009",
+  "cloze": "O ___ é um filantropo!",
+  "answer": "assassino",
+  "text": "O assassino é um filantropo!",
+  "translation": "The murderer is a philanthropist!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Mandarim",
+   "year": 1880
+  }
+ },
+ {
+  "id": "pt-55682-09019",
+  "cloze": "Pois é ___ o que nos serve.",
+  "answer": "justamente",
+  "text": "Pois é justamente o que nos serve.",
+  "translation": "Well, that's exactly what suits us.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-31971-02328",
+  "cloze": "Então é entrar e ___ a gozar.",
+  "answer": "começar",
+  "text": "Então é entrar e começar a gozar.",
+  "translation": "Then it's a matter of going in and starting to enjoy it.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-16425-00612",
+  "cloze": "Aquela mulher, que vimos, não é ___ dele.",
+  "answer": "irmã",
+  "text": "Aquela mulher, que vimos, não é irmã dele.",
+  "translation": "That woman we saw is not his sister.",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-24401-01624",
+  "cloze": "Que ___ tem ela, coitada?",
+  "answer": "culpa",
+  "text": "Que culpa tem ela, coitada?",
+  "translation": "What fault is it of hers, poor thing?",
+  "source": {
+   "author": "Almeida Garrett",
+   "title": "Viagens na Minha Terra",
+   "year": 1846
+  }
+ },
+ {
+  "id": "pt-54829-07914",
+  "cloze": "Não era culpa dela se o ___ a amava.",
+  "answer": "marido",
+  "text": "Não era culpa dela se o marido a amava.",
+  "translation": "It wasn't her fault if her husband loved her.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-33056-04529",
+  "cloze": "E se eu lhe der um ___ a tudo?",
+  "answer": "remédio",
+  "text": "E se eu lhe der um remédio a tudo?",
+  "translation": "And what if I give you a remedy for everything?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-69187-10942",
+  "cloze": "E ficaram ainda a ___.",
+  "answer": "beber",
+  "text": "E ficaram ainda a beber.",
+  "translation": "And they stayed on drinking.",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-31971-02048",
+  "cloze": "Ela, em cima, não ___ também.",
+  "answer": "dormia",
+  "text": "Ela, em cima, não dormia também.",
+  "translation": "She, upstairs, wasn't sleeping either.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-55752-10401",
+  "cloze": "Não, o ___ pode fazer-lhe mal.",
+  "answer": "ar",
+  "text": "Não, o ar pode fazer-lhe mal.",
+  "translation": "No, the air might do you harm.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-16425-00331",
+  "cloze": "Faça de conta que é uma sua irmã que lhe ___.",
+  "answer": "pede",
+  "text": "Faça de conta que é uma sua irmã que lhe pede.",
+  "translation": "Pretend it's a sister of yours who is asking you.",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-24401-01636",
+  "cloze": "Quem me ___ o meu santo?",
+  "answer": "roubou",
+  "text": "Quem me roubou o meu santo?",
+  "translation": "Who stole my saint?",
+  "source": {
+   "author": "Almeida Garrett",
+   "title": "Viagens na Minha Terra",
+   "year": 1846
+  }
+ },
+ {
+  "id": "pt-16384-00089",
+  "cloze": "Tenho o meu ___ feito.",
+  "answer": "testamento",
+  "text": "Tenho o meu testamento feito.",
+  "translation": "I have my will made.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Mandarim",
+   "year": 1880
+  }
+ },
+ {
+  "id": "pt-55682-08699",
+  "cloze": "Com a senhora, ___ bem.",
+  "answer": "note",
+  "text": "Com a senhora, note bem.",
+  "translation": "With you, madam, mind you.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-31971-01813",
+  "cloze": "Está o caldo na ___!",
+  "answer": "mesa",
+  "text": "Está o caldo na mesa!",
+  "translation": "The soup is on the table!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-55752-09921",
+  "cloze": "De noite, ___ com elas.",
+  "answer": "sonhei",
+  "text": "De noite, sonhei com elas.",
+  "translation": "At night I dreamed of them.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-55682-09281",
+  "cloze": "Mas não quer saber a minha interessante ___?",
+  "answer": "descoberta",
+  "text": "Mas não quer saber a minha interessante descoberta?",
+  "translation": "But don't you want to hear my interesting discovery?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-33056-03948",
+  "cloze": "Sim, a felicidade é um par de ___.",
+  "answer": "botas",
+  "text": "Sim, a felicidade é um par de botas.",
+  "translation": "Yes, happiness is a pair of boots.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-54829-08070",
+  "cloze": "Você não ___ os sacrifícios que lhe faço.",
+  "answer": "merece",
+  "text": "Você não merece os sacrifícios que lhe faço.",
+  "translation": "You don't deserve the sacrifices I make for you.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-16425-00393",
+  "cloze": "Não saia esta noite, nem ___.",
+  "answer": "amanhã",
+  "text": "Não saia esta noite, nem amanhã.",
+  "translation": "Don't go out tonight, nor tomorrow.",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-69187-10796",
+  "cloze": "Este galego é que ___ a culpa de tudo!",
+  "answer": "teve",
+  "text": "Este galego é que teve a culpa de tudo!",
+  "translation": "This Galician is the one to blame for everything!",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-40409-04972",
+  "cloze": "E já isto não é bonito, porque cada um tem o seu ___.",
+  "answer": "nome",
+  "text": "E já isto não é bonito, porque cada um tem o seu nome.",
+  "translation": "And this isn't nice, because everyone has their own name.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-54829-07897",
+  "cloze": "Está cá há muito ___? disse-me ele.",
+  "answer": "tempo",
+  "text": "Está cá há muito tempo? disse-me ele.",
+  "translation": "Have you been here long? he said to me.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-24401-01594",
+  "cloze": "Não estás ___ com a minha ruína?",
+  "answer": "satisfeito",
+  "text": "Não estás satisfeito com a minha ruína?",
+  "translation": "Aren't you satisfied with my ruin?",
+  "source": {
+   "author": "Almeida Garrett",
+   "title": "Viagens na Minha Terra",
+   "year": 1846
+  }
+ },
+ {
+  "id": "pt-69187-10687",
+  "cloze": "Só então foi que ela se ___ do coelho.",
+  "answer": "lembrou",
+  "text": "Só então foi que ela se lembrou do coelho.",
+  "translation": "Only then did she remember the rabbit.",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-55682-08892",
+  "cloze": "___ a culpa fosse outra.",
+  "answer": "Talvez",
+  "text": "Talvez a culpa fosse outra.",
+  "translation": "Perhaps the fault lay elsewhere.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-55752-09850",
+  "cloze": "Esta ___ não foi minha, mas dela.",
+  "answer": "reflexão",
+  "text": "Esta reflexão não foi minha, mas dela.",
+  "translation": "This reflection was not mine, but hers.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-33056-04039",
+  "cloze": "Você é ___ de fazer-me um sacrifício?",
+  "answer": "capaz",
+  "text": "Você é capaz de fazer-me um sacrifício?",
+  "translation": "Are you capable of making a sacrifice for me?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-16425-00453",
+  "cloze": "Não quero absolutamente nada da casa de meus ___.",
+  "answer": "pais",
+  "text": "Não quero absolutamente nada da casa de meus pais.",
+  "translation": "I want absolutely nothing from my parents' house.",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-18220-01188",
+  "cloze": "Vinte e três! se bem ___.",
+  "answer": "lembro",
+  "text": "Vinte e três! se bem lembro.",
+  "translation": "Twenty-three! if I remember rightly.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-54829-07826",
+  "cloze": "Pão ___ é que eu não engulo.",
+  "answer": "seco",
+  "text": "Pão seco é que eu não engulo.",
+  "translation": "Dry bread is something I can't swallow.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-55752-09744",
+  "cloze": "O ___ era da mesma opinião.",
+  "answer": "sangue",
+  "text": "O sangue era da mesma opinião.",
+  "translation": "The blood was of the same opinion.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-55682-09032",
+  "cloze": "Pois não era melhor sonhar que ___?",
+  "answer": "chorar",
+  "text": "Pois não era melhor sonhar que chorar?",
+  "translation": "Well, wasn't it better to dream than to cry?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-31971-03407",
+  "cloze": "Mas, no ___, que compensações!",
+  "answer": "fundo",
+  "text": "Mas, no fundo, que compensações!",
+  "translation": "But, deep down, what compensations!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-54829-07653",
+  "cloze": "Era o meu ___ que começava.",
+  "answer": "delírio",
+  "text": "Era o meu delírio que começava.",
+  "translation": "It was my delirium beginning.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-55752-10210",
+  "cloze": "Foi uma vertigem e uma ___.",
+  "answer": "loucura",
+  "text": "Foi uma vertigem e uma loucura.",
+  "translation": "It was a dizziness and a madness.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-24401-01457",
+  "cloze": "Contar a eles não lhes ___ nada.",
+  "answer": "custa",
+  "text": "Contar a eles não lhes custa nada.",
+  "translation": "Telling them costs them nothing.",
+  "source": {
+   "author": "Almeida Garrett",
+   "title": "Viagens na Minha Terra",
+   "year": 1846
+  }
+ },
+ {
+  "id": "pt-55682-08760",
+  "cloze": "Se ele sabia de alguns, estava ___ de os conhecer a todos.",
+  "answer": "longe",
+  "text": "Se ele sabia de alguns, estava longe de os conhecer a todos.",
+  "translation": "If he knew of some, he was far from knowing them all.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-33056-03907",
+  "cloze": "A justiça ficaria para o caso de ___.",
+  "answer": "desespero",
+  "text": "A justiça ficaria para o caso de desespero.",
+  "translation": "Justice would be kept for the case of despair.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-55752-10349",
+  "cloze": "Passei uma hora em ___.",
+  "answer": "paz",
+  "text": "Passei uma hora em paz.",
+  "translation": "I spent an hour in peace.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-69187-10875",
+  "cloze": "O ___ foi às seis e meia.",
+  "answer": "jantar",
+  "text": "O jantar foi às seis e meia.",
+  "translation": "Dinner was at half past six.",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-16425-00134",
+  "cloze": "É tempo de lhe abrir o meu ___, prima.",
+  "answer": "coração",
+  "text": "É tempo de lhe abrir o meu coração, prima.",
+  "translation": "It's time to open my heart to you, cousin.",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-33056-04034",
+  "cloze": "Já não era o homem, era o ___ do manuscrito.",
+  "answer": "autor",
+  "text": "Já não era o homem, era o autor do manuscrito.",
+  "translation": "He was no longer the man, he was the author of the manuscript.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-55752-09789",
+  "cloze": "Não deixou minha mãe, senão para ir ___.",
+  "answer": "embora",
+  "text": "Não deixou minha mãe, senão para ir embora.",
+  "translation": "She didn't leave my mother, except to go away.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-31971-02532",
+  "cloze": "Casada daí a um ___, ela!",
+  "answer": "mês",
+  "text": "Casada daí a um mês, ela!",
+  "translation": "Married a month later, her!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-55682-08827",
+  "cloze": "Foi assim que ___ à casa do Palha.",
+  "answer": "chegou",
+  "text": "Foi assim que chegou à casa do Palha.",
+  "translation": "That's how he arrived at Palha's house.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-55752-10184",
+  "cloze": "A felicidade tem boa ___.",
+  "answer": "alma",
+  "text": "A felicidade tem boa alma.",
+  "translation": "Happiness has a good soul.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-54829-07923",
+  "cloze": "Onde se mete o senhor que não ___ em parte nenhuma?",
+  "answer": "aparece",
+  "text": "Onde se mete o senhor que não aparece em parte nenhuma?",
+  "translation": "Where do you hide yourself, sir, that you don't appear anywhere?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-16425-00597",
+  "cloze": "Eu lá me arranjarei como ___.",
+  "answer": "poder",
+  "text": "Eu lá me arranjarei como poder.",
+  "translation": "I'll manage as best I can.",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-55682-09154",
+  "cloze": "Mal se pode ver o bico do ___.",
+  "answer": "pé",
+  "text": "Mal se pode ver o bico do pé.",
+  "translation": "One can barely see the tip of one's foot.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-33056-04217",
+  "cloze": "Tão minha ___ que ela era! tão amorosa!",
+  "answer": "amiga",
+  "text": "Tão minha amiga que ela era! tão amorosa!",
+  "translation": "Such a friend to me she was! So loving!",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-54829-07837",
+  "cloze": "A ___ é uma deliciosa coisa.",
+  "answer": "valsa",
+  "text": "A valsa é uma deliciosa coisa.",
+  "translation": "The waltz is a delightful thing.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-55752-10286",
+  "cloze": "Você entra no ___ amanhã?",
+  "answer": "mar",
+  "text": "Você entra no mar amanhã?",
+  "translation": "Are you going in the sea tomorrow?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-69187-10976",
+  "cloze": "E ___ disso cá estamos nós dois.",
+  "answer": "além",
+  "text": "E além disso cá estamos nós dois.",
+  "translation": "And besides, here we are, the two of us.",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-16425-00356",
+  "cloze": "Já disse lá para ___ quem procuro.",
+  "answer": "dentro",
+  "text": "Já disse lá para dentro quem procuro.",
+  "translation": "I've already said inside whom I'm looking for.",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-31971-03308",
+  "cloze": "Era a ___ de jantar do cônego.",
+  "answer": "hora",
+  "text": "Era a hora de jantar do cônego.",
+  "translation": "It was the canon's dinner hour.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-40409-04599",
+  "cloze": "Pois pode estar certo, meu pai, que hei de ___!",
+  "answer": "casar",
+  "text": "Pois pode estar certo, meu pai, que hei de casar!",
+  "translation": "Well, you can be sure, father, that I shall marry!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-55682-09333",
+  "cloze": "Creio que dará um bom ___.",
+  "answer": "ministro",
+  "text": "Creio que dará um bom ministro.",
+  "translation": "I believe he will make a good minister.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-33056-04269",
+  "cloze": "Mas que ___ a sua para ajuntar tudo isto! disse ele.",
+  "answer": "paciência",
+  "text": "Mas que paciência a sua para ajuntar tudo isto! disse ele.",
+  "translation": "But what patience you have to gather all this! he said.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-55752-09501",
+  "cloze": "Nem por isso me ___.",
+  "answer": "zanguei",
+  "text": "Nem por isso me zanguei.",
+  "translation": "Even so, I didn't get angry.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-18220-01338",
+  "cloze": "Santo Deus! pensei, há que ___ eu estou em Paris!",
+  "answer": "anos",
+  "text": "Santo Deus! pensei, há que anos eu estou em Paris!",
+  "translation": "Good God! I thought, how many years I've been in Paris!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-55682-08870",
+  "cloze": "Cale-se, pelo ___ de Deus!",
+  "answer": "amor",
+  "text": "Cale-se, pelo amor de Deus!",
+  "translation": "Be quiet, for the love of God!",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-55752-09588",
+  "cloze": "Quando eu cheguei à ___, não ria.",
+  "answer": "porta",
+  "text": "Quando eu cheguei à porta, não ria.",
+  "translation": "When I reached the door, she wasn't laughing.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-69187-10925",
+  "cloze": "Ora queira Deus que eu me ___!",
+  "answer": "engane",
+  "text": "Ora queira Deus que eu me engane!",
+  "translation": "May God grant that I'm mistaken!",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-55752-09681",
+  "cloze": "Pedir, peço, mas pedir não é ___.",
+  "answer": "alcançar",
+  "text": "Pedir, peço, mas pedir não é alcançar.",
+  "translation": "Ask, I do ask, but asking is not obtaining.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-40409-07538",
+  "cloze": "Mas não te incomodes, eu ando ___ por fora.",
+  "answer": "sempre",
+  "text": "Mas não te incomodes, eu ando sempre por fora.",
+  "translation": "But don't trouble yourself, I'm always out.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-54829-07952",
+  "cloze": "___ o pai aos dez anos.",
+  "answer": "Perdeu",
+  "text": "Perdeu o pai aos dez anos.",
+  "translation": "He lost his father at the age of ten.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-18220-01173",
+  "cloze": "Ora, ___! como há de ir?",
+  "answer": "coitada",
+  "text": "Ora, coitada! como há de ir?",
+  "translation": "Well, poor thing! how could she go?",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-31971-03856",
+  "cloze": "Pois aqui estão as ___.",
+  "answer": "novidades",
+  "text": "Pois aqui estão as novidades.",
+  "translation": "Well, here is the news.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-69187-10458",
+  "cloze": "Não preciso abrir ___ sobre o quintal de ninguém!",
+  "answer": "janelas",
+  "text": "Não preciso abrir janelas sobre o quintal de ninguém!",
+  "translation": "I don't need to open windows onto anyone's yard!",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-54829-08086",
+  "cloze": "Quer você levar-lhe uma ___ agora mesmo?",
+  "answer": "carta",
+  "text": "Quer você levar-lhe uma carta agora mesmo?",
+  "translation": "Will you take her a letter right now?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-55682-08780",
+  "cloze": "Neste caso o ___ era outro.",
+  "answer": "sentimento",
+  "text": "Neste caso o sentimento era outro.",
+  "translation": "In this case the feeling was different.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-24401-01506",
+  "cloze": "Mas como ___ tu aqui, Carlos?",
+  "answer": "vieste",
+  "text": "Mas como vieste tu aqui, Carlos?",
+  "translation": "But how did you come here, Carlos?",
+  "source": {
+   "author": "Almeida Garrett",
+   "title": "Viagens na Minha Terra",
+   "year": 1846
+  }
+ },
+ {
+  "id": "pt-54829-07882",
+  "cloze": "Olhe, ainda hoje não ___.",
+  "answer": "almocei",
+  "text": "Olhe, ainda hoje não almocei.",
+  "translation": "Look, I haven't even had lunch today.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-55752-09678",
+  "cloze": "Porque não há de ir ___ leis fora daqui?",
+  "answer": "estudar",
+  "text": "Porque não há de ir estudar leis fora daqui?",
+  "translation": "Why shouldn't he go and study law away from here?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-31971-02593",
+  "cloze": "Para ímpios não há ___!",
+  "answer": "caridade",
+  "text": "Para ímpios não há caridade!",
+  "translation": "For the impious there is no charity!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-55682-09494",
+  "cloze": "Comeu pouco e sem ___.",
+  "answer": "vontade",
+  "text": "Comeu pouco e sem vontade.",
+  "translation": "He ate little and without appetite.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-18220-01156",
+  "cloze": "Isto agora são brincadeiras de ___, meu senhor!",
+  "answer": "verão",
+  "text": "Isto agora são brincadeiras de verão, meu senhor!",
+  "translation": "These are summer games now, sir!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-33056-04216",
+  "cloze": "Fiz mal, ___ ele, muito mal.",
+  "answer": "dizia",
+  "text": "Fiz mal, dizia ele, muito mal.",
+  "translation": "I did wrong, he said, very wrong.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-40409-05844",
+  "cloze": "Lá ___, e ela já está instalada.",
+  "answer": "partiu",
+  "text": "Lá partiu, e ela já está instalada.",
+  "translation": "Off she went, and she's already settled in.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-24401-01713",
+  "cloze": "Tenho espanto e ___ de mim mesmo.",
+  "answer": "horror",
+  "text": "Tenho espanto e horror de mim mesmo.",
+  "translation": "I feel astonishment and horror at myself.",
+  "source": {
+   "author": "Almeida Garrett",
+   "title": "Viagens na Minha Terra",
+   "year": 1846
+  }
+ },
+ {
+  "id": "pt-55752-09528",
+  "cloze": "Voltarei daqui a três ___.",
+  "answer": "meses",
+  "text": "Voltarei daqui a três meses.",
+  "translation": "I'll be back in three months.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-18220-01249",
+  "cloze": "Havia de ser bonito ___, e talvez não fosse mau!",
+  "answer": "prato",
+  "text": "Havia de ser bonito prato, e talvez não fosse mau!",
+  "translation": "It must have been a pretty dish, and perhaps not bad!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-55752-10144",
+  "cloze": "Sua mãe fez ___ a Deus de lhe dar um sacerdote, não é?",
+  "answer": "promessa",
+  "text": "Sua mãe fez promessa a Deus de lhe dar um sacerdote, não é?",
+  "translation": "Your mother made a promise to God to give him a priest, didn't she?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-69187-11175",
+  "cloze": "Você tem lá alguma coisa que beber em casa? perguntou ele ___.",
+  "answer": "afinal",
+  "text": "Você tem lá alguma coisa que beber em casa? perguntou ele afinal.",
+  "translation": "Do you have anything to drink at home? he asked at last.",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-16425-00390",
+  "cloze": "Tenho ciúmes de todas as tuas ___.",
+  "answer": "horas",
+  "text": "Tenho ciúmes de todas as tuas horas.",
+  "translation": "I'm jealous of all your hours.",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-54829-08001",
+  "cloze": "Que podia ___ mais, em vinte e quatro horas?",
+  "answer": "desejar",
+  "text": "Que podia desejar mais, em vinte e quatro horas?",
+  "translation": "What more could I wish for, in twenty-four hours?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-24401-01481",
+  "cloze": "E aquela tarde voltou mais ___ para o convento.",
+  "answer": "cedo",
+  "text": "E aquela tarde voltou mais cedo para o convento.",
+  "translation": "And that afternoon he returned earlier to the convent.",
+  "source": {
+   "author": "Almeida Garrett",
+   "title": "Viagens na Minha Terra",
+   "year": 1846
+  }
+ },
+ {
+  "id": "pt-40409-07000",
+  "cloze": "Que fizera ele ___ esse verão?",
+  "answer": "durante",
+  "text": "Que fizera ele durante esse verão?",
+  "translation": "What had he done during that summer?",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-55682-09387",
+  "cloze": "Aí vamos com a trouxa às ___.",
+  "answer": "costas",
+  "text": "Aí vamos com a trouxa às costas.",
+  "translation": "Off we go with the bundle on our backs.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-16384-00012",
+  "cloze": "Eu ___ os meus autores.",
+  "answer": "conheço",
+  "text": "Eu conheço os meus autores.",
+  "translation": "I know my authors.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Mandarim",
+   "year": 1880
+  }
+ },
+ {
+  "id": "pt-33056-04243",
+  "cloze": "Isso mesmo, interrompeu o outro, ___.",
+  "answer": "rindo",
+  "text": "Isso mesmo, interrompeu o outro, rindo.",
+  "translation": "Exactly, the other interrupted, laughing.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-18220-01295",
+  "cloze": "Em ruim corpo se ___ bom senhor!",
+  "answer": "esconde",
+  "text": "Em ruim corpo se esconde bom senhor!",
+  "translation": "In a poor body a good master hides!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-31971-02062",
+  "cloze": "Deus a abençoe, minha ___, Deus a abençoe!",
+  "answer": "menina",
+  "text": "Deus a abençoe, minha menina, Deus a abençoe!",
+  "translation": "God bless you, my girl, God bless you!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-54829-07930",
+  "cloze": "Aquele caso, porém, foi um raio de ___.",
+  "answer": "luz",
+  "text": "Aquele caso, porém, foi um raio de luz.",
+  "translation": "That affair, however, was a ray of light.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-55752-09787",
+  "cloze": "Então pode-se entrar para o seminário e não sair ___?",
+  "answer": "padre",
+  "text": "Então pode-se entrar para o seminário e não sair padre?",
+  "translation": "So one can enter the seminary and not come out a priest?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-33056-04486",
+  "cloze": "Entraram no carro e seguiram para o ___.",
+  "answer": "teatro",
+  "text": "Entraram no carro e seguiram para o teatro.",
+  "translation": "They got into the carriage and went on to the theatre.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-55752-09984",
+  "cloze": "Era o dia das ___ sensações.",
+  "answer": "boas",
+  "text": "Era o dia das boas sensações.",
+  "translation": "It was the day of good sensations.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-40409-06597",
+  "cloze": "Mais choraria se soubesse o que ia ___ em Paris!",
+  "answer": "encontrar",
+  "text": "Mais choraria se soubesse o que ia encontrar em Paris!",
+  "translation": "She would cry more if she knew what she was going to find in Paris!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-55682-09166",
+  "cloze": "O senhor ___ isto aqui ou mandou vir de Paris?",
+  "answer": "comprou",
+  "text": "O senhor comprou isto aqui ou mandou vir de Paris?",
+  "translation": "Did you buy this here, or have it sent from Paris?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-31971-02679",
+  "cloze": "Mas nós não devemos ter ___ da nossa virtude.",
+  "answer": "orgulho",
+  "text": "Mas nós não devemos ter orgulho da nossa virtude.",
+  "translation": "But we must not take pride in our virtue.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-16425-00445",
+  "cloze": "Eu não te ___ valer, porque teu pai está inexorável.",
+  "answer": "posso",
+  "text": "Eu não te posso valer, porque teu pai está inexorável.",
+  "translation": "I can't help you, because your father is inexorable.",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-40409-06481",
+  "cloze": "Devia haver na ___ um estabelecimento para eles.",
+  "answer": "cidade",
+  "text": "Devia haver na cidade um estabelecimento para eles.",
+  "translation": "There ought to be an establishment for them in the city.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-18220-01179",
+  "cloze": "E nós vamos almoçar, lembrei eu olhando o ___.",
+  "answer": "relógio",
+  "text": "E nós vamos almoçar, lembrei eu olhando o relógio.",
+  "translation": "And we're going to have lunch, I reminded them, looking at the clock.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-55682-08980",
+  "cloze": "Pois estava ___, à força de felicidade.",
+  "answer": "linda",
+  "text": "Pois estava linda, à força de felicidade.",
+  "translation": "Well, she was beautiful, by dint of happiness.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-33056-04052",
+  "cloze": "Pronta! disse ela daí a pouco, ao entrar na ___.",
+  "answer": "sala",
+  "text": "Pronta! disse ela daí a pouco, ao entrar na sala.",
+  "translation": "Ready! she said shortly after, coming into the room.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-54829-08160",
+  "cloze": "Aceitei o ___ e vim com ela por ali abaixo.",
+  "answer": "conselho",
+  "text": "Aceitei o conselho e vim com ela por ali abaixo.",
+  "translation": "I took the advice and came down that way with her.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-69187-11188",
+  "cloze": "Era a pequena, que fora espiar à porta da ___.",
+  "answer": "cozinha",
+  "text": "Era a pequena, que fora espiar à porta da cozinha.",
+  "translation": "It was the little girl, who had gone to spy at the kitchen door.",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-55752-10333",
+  "cloze": "A ternura com que me disse isto era de comover as ___.",
+  "answer": "pedras",
+  "text": "A ternura com que me disse isto era de comover as pedras.",
+  "translation": "The tenderness with which she said this would have moved stones.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-16425-00662",
+  "cloze": "Irá, irá ___, minha irmã.",
+  "answer": "comigo",
+  "text": "Irá, irá comigo, minha irmã.",
+  "translation": "You will go, you will go with me, my sister.",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-31971-03117",
+  "cloze": "Mas podiam ser dois ___.",
+  "answer": "cavalheiros",
+  "text": "Mas podiam ser dois cavalheiros.",
+  "translation": "But they might be two gentlemen.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-69187-10777",
+  "cloze": "Gostavam-se ___ uma da outra.",
+  "answer": "muito",
+  "text": "Gostavam-se muito uma da outra.",
+  "translation": "They were very fond of each other.",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-54829-08153",
+  "cloze": "No fim de três meses, ia tudo à ___.",
+  "answer": "maravilha",
+  "text": "No fim de três meses, ia tudo à maravilha.",
+  "translation": "At the end of three months, everything was going wonderfully.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-55752-10127",
+  "cloze": "Não era natural que lhe confiasse tal ___.",
+  "answer": "assunto",
+  "text": "Não era natural que lhe confiasse tal assunto.",
+  "translation": "It wasn't natural that he should confide such a matter to her.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-16425-00571",
+  "cloze": "Vi a ___ à luz do teu amor.",
+  "answer": "virtude",
+  "text": "Vi a virtude à luz do teu amor.",
+  "translation": "I saw virtue in the light of your love.",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-54829-07672",
+  "cloze": "Está bem, deixe-me ficar algum tempo mais, estou na pista de um ___.",
+  "answer": "mistério",
+  "text": "Está bem, deixe-me ficar algum tempo mais, estou na pista de um mistério.",
+  "translation": "All right, let me stay a while longer, I'm on the trail of a mystery.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-16425-00327",
+  "cloze": "Se isto se sabe, então podem suspeitar da ___ dos homens.",
+  "answer": "morte",
+  "text": "Se isto se sabe, então podem suspeitar da morte dos homens.",
+  "translation": "If this becomes known, then they may suspect the men's death.",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-18220-00868",
+  "cloze": "Que compreensão da ___, que fina inteligência do conforto!",
+  "answer": "vida",
+  "text": "Que compreensão da vida, que fina inteligência do conforto!",
+  "translation": "What an understanding of life, what a fine intelligence of comfort!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-54829-07642",
+  "cloze": "Eu deixo-me estar entre o ___ e o sábio.",
+  "answer": "poeta",
+  "text": "Eu deixo-me estar entre o poeta e o sábio.",
+  "translation": "I let myself remain between the poet and the sage.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-16384-00001",
+  "cloze": "A minha existência era bem equilibrada e ___.",
+  "answer": "suave",
+  "text": "A minha existência era bem equilibrada e suave.",
+  "translation": "My existence was well balanced and gentle.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Mandarim",
+   "year": 1880
+  }
+ },
+ {
+  "id": "pt-55682-09394",
+  "cloze": "De noite, ia à palestra com os amigos da ___.",
+  "answer": "vizinhança",
+  "text": "De noite, ia à palestra com os amigos da vizinhança.",
+  "translation": "At night he went to chat with friends from the neighbourhood.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-54829-08028",
+  "cloze": "Eram duas horas da ___ quando cheguei.",
+  "answer": "tarde",
+  "text": "Eram duas horas da tarde quando cheguei.",
+  "translation": "It was two in the afternoon when I arrived.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-33056-04307",
+  "cloze": "___ dizendo que estava indisposto.",
+  "answer": "Menti",
+  "text": "Menti dizendo que estava indisposto.",
+  "translation": "I lied, saying that I was unwell.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-55682-09429",
+  "cloze": "Meteu-o em casa, e ficou à porta, a olhar para a ___.",
+  "answer": "rua",
+  "text": "Meteu-o em casa, e ficou à porta, a olhar para a rua.",
+  "translation": "He put it in the house and stayed at the door, looking at the street.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-54829-08224",
+  "cloze": "Este ___ capítulo é todo de negativas.",
+  "answer": "último",
+  "text": "Este último capítulo é todo de negativas.",
+  "translation": "This last chapter is all negatives.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-40409-05222",
+  "cloze": "Ora venha cá o meu lindo ___, para vermos isso.",
+  "answer": "amigo",
+  "text": "Ora venha cá o meu lindo amigo, para vermos isso.",
+  "translation": "Now come here, my fine friend, so we can see that.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-55752-10421",
+  "cloze": "Iremos vê-la, quando ficar ___.",
+  "answer": "melhor",
+  "text": "Iremos vê-la, quando ficar melhor.",
+  "translation": "We'll go and see her when she's better.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-55682-09214",
+  "cloze": "É preciso pô-lo fora daqui, ___ a moça.",
+  "answer": "pensou",
+  "text": "É preciso pô-lo fora daqui, pensou a moça.",
+  "translation": "He must be got out of here, thought the girl.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-69187-10904",
+  "cloze": "Seria ___ se a deixassem ficar aqui!",
+  "answer": "lástima",
+  "text": "Seria lástima se a deixassem ficar aqui!",
+  "translation": "It would be a pity if they let her stay here!",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-33056-04059",
+  "cloze": "Disse-lhe que, embora fosse ___, ainda era tempo de libertar-se.",
+  "answer": "difícil",
+  "text": "Disse-lhe que, embora fosse difícil, ainda era tempo de libertar-se.",
+  "translation": "I told him that, although it was difficult, there was still time to free himself.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-31971-02189",
+  "cloze": "Amo-te com ___ e desespero!",
+  "answer": "paixão",
+  "text": "Amo-te com paixão e desespero!",
+  "translation": "I love you with passion and despair!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-18220-01208",
+  "cloze": "Não devem ser ___ as senhoras da minha serra.",
+  "answer": "interessantes",
+  "text": "Não devem ser interessantes as senhoras da minha serra.",
+  "translation": "The ladies of my mountains can't be very interesting.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-31971-03709",
+  "cloze": "Mas o Libaninho ___ não se podia demorar.",
+  "answer": "felizmente",
+  "text": "Mas o Libaninho felizmente não se podia demorar.",
+  "translation": "But fortunately Libaninho could not stay long.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-54829-08207",
+  "cloze": "A ___ coisa disse Sabina, à noite, no teatro.",
+  "answer": "mesma",
+  "text": "A mesma coisa disse Sabina, à noite, no teatro.",
+  "translation": "Sabina said the same thing that night at the theatre.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-16425-00171",
+  "cloze": "O ___ esperava muito daquela noitada de festa.",
+  "answer": "velho",
+  "text": "O velho esperava muito daquela noitada de festa.",
+  "translation": "The old man expected much from that night of festivities.",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-40409-04658",
+  "cloze": "Há mais de três anos, ___ Pedro.",
+  "answer": "murmurou",
+  "text": "Há mais de três anos, murmurou Pedro.",
+  "translation": "More than three years ago, murmured Pedro.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-31971-03352",
+  "cloze": "E o cônego, muito grave, continuou a ___.",
+  "answer": "escrever",
+  "text": "E o cônego, muito grave, continuou a escrever.",
+  "translation": "And the canon, very grave, went on writing.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-69187-11044",
+  "cloze": "A uma hora da madrugada o ___ do café pô-los fora.",
+  "answer": "dono",
+  "text": "A uma hora da madrugada o dono do café pô-los fora.",
+  "translation": "At one in the morning the owner of the café threw them out.",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-33056-04206",
+  "cloze": "Que remédio, senão aceitar um ___?",
+  "answer": "genro",
+  "text": "Que remédio, senão aceitar um genro?",
+  "translation": "What choice was there but to accept a son-in-law?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-55752-09521",
+  "cloze": "Não pude ouvir as ___ que tio Cosme entrou a dizer.",
+  "answer": "palavras",
+  "text": "Não pude ouvir as palavras que tio Cosme entrou a dizer.",
+  "translation": "I couldn't hear the words that Uncle Cosme began to say.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-18220-01000",
+  "cloze": "Três horas e meia, estamos a ___, Jacinto!",
+  "answer": "chegar",
+  "text": "Três horas e meia, estamos a chegar, Jacinto!",
+  "translation": "Half past three, we're almost there, Jacinto!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-40409-07532",
+  "cloze": "Isto é ___ quando se vem de fora! exclamou Carlos.",
+  "answer": "horrível",
+  "text": "Isto é horrível quando se vem de fora! exclamou Carlos.",
+  "translation": "This is horrible when one comes from abroad! exclaimed Carlos.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-16425-00552",
+  "cloze": "Ainda o dizes sem ___, nem horror de ti mesma!",
+  "answer": "vergonha",
+  "text": "Ainda o dizes sem vergonha, nem horror de ti mesma!",
+  "translation": "You still say it without shame or horror at yourself!",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-69187-10521",
+  "cloze": "Uma algazarra medonha, em que ___ se entendia!",
+  "answer": "ninguém",
+  "text": "Uma algazarra medonha, em que ninguém se entendia!",
+  "translation": "A dreadful uproar, in which nobody could understand anyone!",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-40409-07616",
+  "cloze": "E foi tudo o que ___ sobre a grande paixão romântica do Ega.",
+  "answer": "disseram",
+  "text": "E foi tudo o que disseram sobre a grande paixão romântica do Ega.",
+  "translation": "And that was all they said about Ega's great romantic passion.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-55682-08378",
+  "cloze": "Chegando acima, ___ a casa muito bem posta.",
+  "answer": "achou",
+  "text": "Chegando acima, achou a casa muito bem posta.",
+  "translation": "Arriving upstairs, he found the house very well appointed.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-33056-03898",
+  "cloze": "Mas isto seria transtornar a ___ do conto.",
+  "answer": "ordem",
+  "text": "Mas isto seria transtornar a ordem do conto.",
+  "translation": "But this would upset the order of the story.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-16384-00054",
+  "cloze": "Como ela era linda ___ de dama chinesa!",
+  "answer": "vestida",
+  "text": "Como ela era linda vestida de dama chinesa!",
+  "translation": "How beautiful she was dressed as a Chinese lady!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Mandarim",
+   "year": 1880
+  }
+ },
+ {
+  "id": "pt-54829-07859",
+  "cloze": "Que importuno! dizia ela fazendo uma careta de ___.",
+  "answer": "raiva",
+  "text": "Que importuno! dizia ela fazendo uma careta de raiva.",
+  "translation": "How tiresome! she said, making a face of anger.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-69187-10802",
+  "cloze": "Acorda, seu João, para ir à ___.",
+  "answer": "praia",
+  "text": "Acorda, seu João, para ir à praia.",
+  "translation": "Wake up, João, to go to the beach.",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-55752-10377",
+  "cloze": "Despeça-me daqui, mas diga tudo ___.",
+  "answer": "primeiro",
+  "text": "Despeça-me daqui, mas diga tudo primeiro.",
+  "translation": "Send me away from here, but say everything first.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-31971-02805",
+  "cloze": "O doutor encolheu os ___.",
+  "answer": "ombros",
+  "text": "O doutor encolheu os ombros.",
+  "translation": "The doctor shrugged his shoulders.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-16384-00051",
+  "cloze": "Voltei para casa, pesado e ___.",
+  "answer": "pensativo",
+  "text": "Voltei para casa, pesado e pensativo.",
+  "translation": "I went back home, heavy and pensive.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Mandarim",
+   "year": 1880
+  }
+ },
+ {
+  "id": "pt-18220-01139",
+  "cloze": "O Jacinto ___ da serra.",
+  "answer": "gosta",
+  "text": "O Jacinto gosta da serra.",
+  "translation": "Jacinto likes the mountains.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-55682-08239",
+  "cloze": "Pois devias ___, meu querido.",
+  "answer": "rir",
+  "text": "Pois devias rir, meu querido.",
+  "translation": "Well, you should laugh, my dear.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-55752-09698",
+  "cloze": "Já havia algumas ___ na sacristia.",
+  "answer": "pessoas",
+  "text": "Já havia algumas pessoas na sacristia.",
+  "translation": "There were already some people in the sacristy.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-69187-11051",
+  "cloze": "Reconheceu-o ___ e correu a abrir.",
+  "answer": "logo",
+  "text": "Reconheceu-o logo e correu a abrir.",
+  "translation": "She recognised him at once and ran to open up.",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-31971-03046",
+  "cloze": "Ela recusou-se, com um ___.",
+  "answer": "risinho",
+  "text": "Ela recusou-se, com um risinho.",
+  "translation": "She refused, with a little laugh.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-54829-07747",
+  "cloze": "Já me conformei, foi a minha ___, e beijei-lhe a mão.",
+  "answer": "resposta",
+  "text": "Já me conformei, foi a minha resposta, e beijei-lhe a mão.",
+  "translation": "I've already resigned myself, was my answer, and I kissed her hand.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-69187-10861",
+  "cloze": "A ___ de todos os dias continuava, como se não houvera interrupção.",
+  "answer": "luta",
+  "text": "A luta de todos os dias continuava, como se não houvera interrupção.",
+  "translation": "The daily struggle went on, as if there had been no interruption.",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-31971-03628",
+  "cloze": "Na quinta-feira ___, com efeito.",
+  "answer": "apareceu",
+  "text": "Na quinta-feira apareceu, com efeito.",
+  "translation": "On Thursday he appeared, sure enough.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-33056-04222",
+  "cloze": "É falsa? perguntou com ___ um dos meninos.",
+  "answer": "impaciência",
+  "text": "É falsa? perguntou com impaciência um dos meninos.",
+  "translation": "Is it false? one of the boys asked impatiently.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-40409-05816",
+  "cloze": "O Gastão! murmurou ela de ___.",
+  "answer": "repente",
+  "text": "O Gastão! murmurou ela de repente.",
+  "translation": "Gastão! she murmured suddenly.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-31971-02581",
+  "cloze": "Vi o original, escrito pela ___ dele.",
+  "answer": "letra",
+  "text": "Vi o original, escrito pela letra dele.",
+  "translation": "I saw the original, written in his hand.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-55752-09851",
+  "cloze": "Estávamos contentes, entramos a falar do ___.",
+  "answer": "futuro",
+  "text": "Estávamos contentes, entramos a falar do futuro.",
+  "translation": "We were happy; we began to talk about the future.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-16425-00154",
+  "cloze": "Vão lá pedir ___ ao coração!",
+  "answer": "sinceridade",
+  "text": "Vão lá pedir sinceridade ao coração!",
+  "translation": "Just try asking the heart for sincerity!",
+  "source": {
+   "author": "Camilo Castelo Branco",
+   "title": "Amor de Perdição",
+   "year": 1862
+  }
+ },
+ {
+  "id": "pt-54829-07992",
+  "cloze": "Achei-a mais ___, e talvez mais moça.",
+  "answer": "gorda",
+  "text": "Achei-a mais gorda, e talvez mais moça.",
+  "translation": "I found her fatter, and perhaps younger.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-18220-00801",
+  "cloze": "Estou morrendo por admirar as ___!",
+  "answer": "ruínas",
+  "text": "Estou morrendo por admirar as ruínas!",
+  "translation": "I'm dying to admire the ruins!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-40409-05772",
+  "cloze": "Deixe estar o menino, disse ela, tocando-lhe no ___.",
+  "answer": "braço",
+  "text": "Deixe estar o menino, disse ela, tocando-lhe no braço.",
+  "translation": "Leave the boy alone, she said, touching his arm.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-55752-10253",
+  "cloze": "Deus ___ o que custa escrevê-los, quanto mais contá-los.",
+  "answer": "sabe",
+  "text": "Deus sabe o que custa escrevê-los, quanto mais contá-los.",
+  "translation": "God knows what it costs to write them, let alone to tell them.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-55682-08496",
+  "cloze": "E o nosso homem fechou os ___, e deixou-se ir ao acaso.",
+  "answer": "olhos",
+  "text": "E o nosso homem fechou os olhos, e deixou-se ir ao acaso.",
+  "translation": "And our man closed his eyes and let himself drift at random.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-69187-10987",
+  "cloze": "___ havia mais alguém na tasca.",
+  "answer": "Infelizmente",
+  "text": "Infelizmente havia mais alguém na tasca.",
+  "translation": "Unfortunately there was someone else in the tavern.",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-40409-04707",
+  "cloze": "Coitadinho dele, que tinha sido educado com uma vara de ___!",
+  "answer": "ferro",
+  "text": "Coitadinho dele, que tinha sido educado com uma vara de ferro!",
+  "translation": "Poor thing, he had been brought up with a rod of iron!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-18220-00993",
+  "cloze": "Também não valia a pena mudar de ___ para subir à serra!",
+  "answer": "camisa",
+  "text": "Também não valia a pena mudar de camisa para subir à serra!",
+  "translation": "It wasn't worth changing one's shirt to go up the mountain either!",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-55682-09138",
+  "cloze": "Foi uma criada que os ___, trazendo-lhes café.",
+  "answer": "acordou",
+  "text": "Foi uma criada que os acordou, trazendo-lhes café.",
+  "translation": "It was a maid who woke them, bringing them coffee.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-69187-10620",
+  "cloze": "A ___ foi aceita alegremente.",
+  "answer": "proposta",
+  "text": "A proposta foi aceita alegremente.",
+  "translation": "The proposal was cheerfully accepted.",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-16384-00044",
+  "cloze": "Há aqui uma ___ austera.",
+  "answer": "tranquilidade",
+  "text": "Há aqui uma tranquilidade austera.",
+  "translation": "There is an austere tranquillity here.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Mandarim",
+   "year": 1880
+  }
+ },
+ {
+  "id": "pt-40409-05508",
+  "cloze": "Mas a cólera outra vez abafou-lhe a ___.",
+  "answer": "voz",
+  "text": "Mas a cólera outra vez abafou-lhe a voz.",
+  "translation": "But anger once again choked his voice.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-54829-08190",
+  "cloze": "Íamos a pé, filosofando as ___.",
+  "answer": "coisas",
+  "text": "Íamos a pé, filosofando as coisas.",
+  "translation": "We went on foot, philosophising about things.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-55682-08470",
+  "cloze": "Conheci-o, disse o major ___.",
+  "answer": "sorrindo",
+  "text": "Conheci-o, disse o major sorrindo.",
+  "translation": "I knew him, said the major, smiling.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-40409-04650",
+  "cloze": "Não sei nada, respondeu Pedro num longo ___.",
+  "answer": "esforço",
+  "text": "Não sei nada, respondeu Pedro num longo esforço.",
+  "translation": "I know nothing, replied Pedro with a long effort.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-33056-04484",
+  "cloze": "Meia hora ___ foi vestir-se.",
+  "answer": "depois",
+  "text": "Meia hora depois foi vestir-se.",
+  "translation": "Half an hour later he went to get dressed.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-24401-01493",
+  "cloze": "A avó e a ___ abraçaram-se e choraram.",
+  "answer": "neta",
+  "text": "A avó e a neta abraçaram-se e choraram.",
+  "translation": "The grandmother and the granddaughter embraced and wept.",
+  "source": {
+   "author": "Almeida Garrett",
+   "title": "Viagens na Minha Terra",
+   "year": 1846
+  }
+ },
+ {
+  "id": "pt-55752-09769",
+  "cloze": "Expliquei-lhe o motivo das ___.",
+  "answer": "férias",
+  "text": "Expliquei-lhe o motivo das férias.",
+  "translation": "I explained to him the reason for the holidays.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-33056-03966",
+  "cloze": "Parou agora no adro para dar uma ___.",
+  "answer": "esmola",
+  "text": "Parou agora no adro para dar uma esmola.",
+  "translation": "He stopped now in the churchyard to give alms.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-69187-10906",
+  "cloze": "E as duas cores olhavam-se no ar como um desafio de ___.",
+  "answer": "guerra",
+  "text": "E as duas cores olhavam-se no ar como um desafio de guerra.",
+  "translation": "And the two colours faced each other in the air like a challenge to war.",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-54829-07842",
+  "cloze": "Pois toma lá o embrulho ___.",
+  "answer": "misterioso",
+  "text": "Pois toma lá o embrulho misterioso.",
+  "translation": "Well, here, take the mysterious parcel.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-55752-10183",
+  "cloze": "Então eu esperei tantos anos para aborrecer-me em ___ dias?",
+  "answer": "sete",
+  "text": "Então eu esperei tantos anos para aborrecer-me em sete dias?",
+  "translation": "So I waited so many years to get bored in seven days?",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-40409-06476",
+  "cloze": "E a ___ dela! exclamou Carlos.",
+  "answer": "dignidade",
+  "text": "E a dignidade dela! exclamou Carlos.",
+  "translation": "And her dignity! exclaimed Carlos.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-55682-09016",
+  "cloze": "Pois fiquemos aqui neste ___.",
+  "answer": "banco",
+  "text": "Pois fiquemos aqui neste banco.",
+  "translation": "Well, let's stay here on this bench.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Quincas Borba",
+   "year": 1891
+  }
+ },
+ {
+  "id": "pt-54829-07761",
+  "cloze": "Fiquei um pouco ___, incomodado.",
+  "answer": "aborrecido",
+  "text": "Fiquei um pouco aborrecido, incomodado.",
+  "translation": "I was a little annoyed, uncomfortable.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-55752-10204",
+  "cloze": "Escobar sorriu e disse-me que estava para ir ao meu ___ contar-me tudo.",
+  "answer": "escritório",
+  "text": "Escobar sorriu e disse-me que estava para ir ao meu escritório contar-me tudo.",
+  "translation": "Escobar smiled and told me he was about to go to my office to tell me everything.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Dom Casmurro",
+   "year": 1899
+  }
+ },
+ {
+  "id": "pt-24401-01578",
+  "cloze": "A santa ___, ele mata-a.",
+  "answer": "resiste",
+  "text": "A santa resiste, ele mata-a.",
+  "translation": "The saint resists; he kills her.",
+  "source": {
+   "author": "Almeida Garrett",
+   "title": "Viagens na Minha Terra",
+   "year": 1846
+  }
+ },
+ {
+  "id": "pt-31971-02349",
+  "cloze": "Calou-se, com um soluço na ___.",
+  "answer": "garganta",
+  "text": "Calou-se, com um soluço na garganta.",
+  "translation": "She fell silent, with a sob in her throat.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "O Crime do Padre Amaro",
+   "year": 1875
+  }
+ },
+ {
+  "id": "pt-33056-04449",
+  "cloze": "Assim chegaram ao ___ mês.",
+  "answer": "quinto",
+  "text": "Assim chegaram ao quinto mês.",
+  "translation": "Thus they reached the fifth month.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-69187-10665",
+  "cloze": "Ainda bem! exclamou ela, ___.",
+  "answer": "radiante",
+  "text": "Ainda bem! exclamou ela, radiante.",
+  "translation": "Thank goodness! she exclaimed, radiant.",
+  "source": {
+   "author": "Aluísio Azevedo",
+   "title": "O Cortiço",
+   "year": 1890
+  }
+ },
+ {
+  "id": "pt-54829-07786",
+  "cloze": "___? disse Marcela no fim de minha narração.",
+  "answer": "Casou",
+  "text": "Casou? disse Marcela no fim de minha narração.",
+  "translation": "Did you marry? said Marcela at the end of my story.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Memórias Póstumas de Brás Cubas",
+   "year": 1881
+  }
+ },
+ {
+  "id": "pt-18220-01061",
+  "cloze": "Nem dos ___, nem da casa, se elevava um rumor.",
+  "answer": "campos",
+  "text": "Nem dos campos, nem da casa, se elevava um rumor.",
+  "translation": "Neither from the fields nor from the house did a sound rise.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-18220-01283",
+  "cloze": "Oh Zé Fernandes, de que é este cheirinho tão ___, tão bom?",
+  "answer": "doce",
+  "text": "Oh Zé Fernandes, de que é este cheirinho tão doce, tão bom?",
+  "translation": "Oh Zé Fernandes, what is this little smell that's so sweet, so good?",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "A Cidade e as Serras",
+   "year": 1901
+  }
+ },
+ {
+  "id": "pt-33056-03915",
+  "cloze": "Mas, ai dele! a modéstia atou-lhe a ___.",
+  "answer": "língua",
+  "text": "Mas, ai dele! a modéstia atou-lhe a língua.",
+  "translation": "But, alas for him! modesty tied his tongue.",
+  "source": {
+   "author": "Machado de Assis",
+   "title": "Histórias sem Data",
+   "year": 1884
+  }
+ },
+ {
+  "id": "pt-40409-07194",
+  "cloze": "Ega ficou a ___ para o Vilaça.",
+  "answer": "olhar",
+  "text": "Ega ficou a olhar para o Vilaça.",
+  "translation": "Ega stood looking at Vilaça.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-40409-07217",
+  "cloze": "O procurador, com o lenço na mão, lançou em redor um olhar ___.",
+  "answer": "lento",
+  "text": "O procurador, com o lenço na mão, lançou em redor um olhar lento.",
+  "translation": "The attorney, handkerchief in hand, cast a slow look around.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ },
+ {
+  "id": "pt-40409-05494",
+  "cloze": "Carlos olhou-o, com um ___ brutal de o espancar.",
+  "answer": "desejo",
+  "text": "Carlos olhou-o, com um desejo brutal de o espancar.",
+  "translation": "Carlos looked at him with a brutal desire to beat him.",
+  "source": {
+   "author": "Eça de Queirós",
+   "title": "Os Maias",
+   "year": 1888
+  }
+ }
+]

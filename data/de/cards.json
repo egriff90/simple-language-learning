@@ -1,0 +1,5042 @@
+[
+ {
+  "id": "de-2408-00506",
+  "cloze": "Und wer ist dann der ___?",
+  "answer": "Erste",
+  "text": "Und wer ist dann der Erste?",
+  "translation": "And who is the first, then?",
+  "source": {
+   "author": "Johann Wolfgang von Goethe",
+   "title": "Die Leiden des jungen Werther",
+   "year": 1774
+  }
+ },
+ {
+  "id": "de-5323-02319",
+  "cloze": "Was haben Sie nun ___?",
+  "answer": "vor",
+  "text": "Was haben Sie nun vor?",
+  "translation": "What are you planning now?",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-28042-00888",
+  "cloze": "Aber er ging noch ___.",
+  "answer": "weiter",
+  "text": "Aber er ging noch weiter.",
+  "translation": "But he went still further.",
+  "source": {
+   "author": "Gottfried Keller",
+   "title": "Die Leute von Seldwyla",
+   "year": 1874
+  }
+ },
+ {
+  "id": "de-35312-01568",
+  "cloze": "Was war nun zu ___?",
+  "answer": "machen",
+  "text": "Was war nun zu machen?",
+  "translation": "What was to be done now?",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-23313-00338",
+  "cloze": "Dann stand er auf und ging ___.",
+  "answer": "fort",
+  "text": "Dann stand er auf und ging fort.",
+  "translation": "Then he stood up and went away.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-77905-04565",
+  "cloze": "Ja, so sind die ___.",
+  "answer": "Menschen",
+  "text": "Ja, so sind die Menschen.",
+  "translation": "Yes, that's how people are.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-69327-04211",
+  "cloze": "Was ___ denn der Mann?",
+  "answer": "will",
+  "text": "Was will denn der Mann?",
+  "translation": "What does the man want, then?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-5323-03245",
+  "cloze": "Das ___ was für mich.",
+  "answer": "wäre",
+  "text": "Das wäre was für mich.",
+  "translation": "That would be something for me.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-22367-00029",
+  "cloze": "Und warum ___ sie denn?",
+  "answer": "weinte",
+  "text": "Und warum weinte sie denn?",
+  "translation": "And why was she crying, then?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-69327-04106",
+  "cloze": "Aber ___ wusste ich das nicht.",
+  "answer": "damals",
+  "text": "Aber damals wusste ich das nicht.",
+  "translation": "But at that time I didn't know that.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-2408-00593",
+  "cloze": "Mir kamen die Tränen in die ___.",
+  "answer": "Augen",
+  "text": "Mir kamen die Tränen in die Augen.",
+  "translation": "Tears came to my eyes.",
+  "source": {
+   "author": "Johann Wolfgang von Goethe",
+   "title": "Die Leiden des jungen Werther",
+   "year": 1774
+  }
+ },
+ {
+  "id": "de-29376-01189",
+  "cloze": "Nun also an die ___.",
+  "answer": "Arbeit",
+  "text": "Nun also an die Arbeit.",
+  "translation": "Well then, to work.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-35312-01566",
+  "cloze": "Aber das war nun ___!",
+  "answer": "schlimm",
+  "text": "Aber das war nun schlimm!",
+  "translation": "But that was bad now!",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-6651-03432",
+  "cloze": "Ich darf aber nicht ___.",
+  "answer": "allein",
+  "text": "Ich darf aber nicht allein.",
+  "translation": "But I'm not allowed to go alone.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-5323-03304",
+  "cloze": "Es geht so nicht ___.",
+  "answer": "weiter",
+  "text": "Es geht so nicht weiter.",
+  "translation": "It can't go on like this.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-5323-01907",
+  "cloze": "Aber das ist ja ganz ___.",
+  "answer": "gleich",
+  "text": "Aber das ist ja ganz gleich.",
+  "translation": "But that makes no difference at all.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-6651-03494",
+  "cloze": "Sie schüttelte mit dem ___.",
+  "answer": "Kopf",
+  "text": "Sie schüttelte mit dem Kopf.",
+  "translation": "She shook her head.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-5323-02654",
+  "cloze": "Er ___ es Effi vor.",
+  "answer": "las",
+  "text": "Er las es Effi vor.",
+  "translation": "He read it aloud to Effi.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-28042-01069",
+  "cloze": "Er ___ sich für die Frau.",
+  "answer": "entschied",
+  "text": "Er entschied sich für die Frau.",
+  "translation": "He decided in favour of the woman.",
+  "source": {
+   "author": "Gottfried Keller",
+   "title": "Die Leute von Seldwyla",
+   "year": 1874
+  }
+ },
+ {
+  "id": "de-22367-00109",
+  "cloze": "Er hielt inne und sah sich ___.",
+  "answer": "um",
+  "text": "Er hielt inne und sah sich um.",
+  "translation": "He paused and looked around.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-69327-04070",
+  "cloze": "Wollen Sie mir das nicht ___?",
+  "answer": "erklären",
+  "text": "Wollen Sie mir das nicht erklären?",
+  "translation": "Won't you explain that to me?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-22367-00000",
+  "cloze": "Was ist mit mir ___?",
+  "answer": "geschehen",
+  "text": "Was ist mit mir geschehen?",
+  "translation": "What has happened to me?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-5323-03041",
+  "cloze": "Es hat so sein ___.",
+  "answer": "sollen",
+  "text": "Es hat so sein sollen.",
+  "translation": "It was meant to be.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-77905-04690",
+  "cloze": "Aber es war ___ darin.",
+  "answer": "niemand",
+  "text": "Aber es war niemand darin.",
+  "translation": "But there was nobody inside.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-74008-04349",
+  "cloze": "Wie, was sagt der ___?",
+  "answer": "Junge",
+  "text": "Wie, was sagt der Junge?",
+  "translation": "What, what is the boy saying?",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-23313-00185",
+  "cloze": "Warum, warum war er ___?",
+  "answer": "hier",
+  "text": "Warum, warum war er hier?",
+  "translation": "Why, why was he here?",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-74008-04413",
+  "cloze": "Da ___ sie und ließ ihn gehen.",
+  "answer": "nickte",
+  "text": "Da nickte sie und ließ ihn gehen.",
+  "translation": "Then she nodded and let him go.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-6651-03538",
+  "cloze": "Sie wird aber ___ kommen.",
+  "answer": "bald",
+  "text": "Sie wird aber bald kommen.",
+  "translation": "But she will come soon.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-22367-00012",
+  "cloze": "Was aber sollte er jetzt ___?",
+  "answer": "tun",
+  "text": "Was aber sollte er jetzt tun?",
+  "translation": "But what should he do now?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-29376-01420",
+  "cloze": "Hier und da war ein ___ geöffnet.",
+  "answer": "Fenster",
+  "text": "Hier und da war ein Fenster geöffnet.",
+  "translation": "Here and there a window was open.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-23313-00284",
+  "cloze": "Ja, das ist gut ___!",
+  "answer": "gemacht",
+  "text": "Ja, das ist gut gemacht!",
+  "translation": "Yes, that's well done!",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-69327-04116",
+  "cloze": "Wie schlimm er ___ ist, nicht?",
+  "answer": "heute",
+  "text": "Wie schlimm er heute ist, nicht?",
+  "translation": "How bad he is today, isn't he?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-5323-02151",
+  "cloze": "Nun ist alles ___ gut.",
+  "answer": "wieder",
+  "text": "Nun ist alles wieder gut.",
+  "translation": "Now everything is fine again.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-22367-00114",
+  "cloze": "Es war die Schwester, die sich so ___ hatte.",
+  "answer": "beeilt",
+  "text": "Es war die Schwester, die sich so beeilt hatte.",
+  "translation": "It was the sister who had hurried so.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-69327-04224",
+  "cloze": "Was ___ du in der Hand?",
+  "answer": "hältst",
+  "text": "Was hältst du in der Hand?",
+  "translation": "What are you holding in your hand?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-6651-03498",
+  "cloze": "Dann ___ sie sich wieder.",
+  "answer": "entfernte",
+  "text": "Dann entfernte sie sich wieder.",
+  "translation": "Then she went away again.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-23313-00341",
+  "cloze": "Hatte ich euch ___? fragte er.",
+  "answer": "vergessen",
+  "text": "Hatte ich euch vergessen? fragte er.",
+  "translation": "Had I forgotten you? he asked.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-5323-02322",
+  "cloze": "Das wäre mir das ___.",
+  "answer": "liebste",
+  "text": "Das wäre mir das liebste.",
+  "translation": "That would be what I'd like best.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-22367-00099",
+  "cloze": "Und doch ___ die Schwester so schön.",
+  "answer": "spielte",
+  "text": "Und doch spielte die Schwester so schön.",
+  "translation": "And yet the sister played so beautifully.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-2408-00521",
+  "cloze": "Nun, so soll es ___!",
+  "answer": "bleiben",
+  "text": "Nun, so soll es bleiben!",
+  "translation": "Well, so let it stay!",
+  "source": {
+   "author": "Johann Wolfgang von Goethe",
+   "title": "Die Leiden des jungen Werther",
+   "year": 1774
+  }
+ },
+ {
+  "id": "de-69327-04201",
+  "cloze": "Er war ___ zu finden.",
+  "answer": "nirgends",
+  "text": "Er war nirgends zu finden.",
+  "translation": "He was nowhere to be found.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-35312-01689",
+  "cloze": "Aber er ___ mich nicht zu Worte kommen.",
+  "answer": "ließ",
+  "text": "Aber er ließ mich nicht zu Worte kommen.",
+  "translation": "But he didn't let me get a word in.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-28042-01118",
+  "cloze": "Wie konnte ich den ___?",
+  "answer": "übersehen",
+  "text": "Wie konnte ich den übersehen?",
+  "translation": "How could I have overlooked him?",
+  "source": {
+   "author": "Gottfried Keller",
+   "title": "Die Leute von Seldwyla",
+   "year": 1874
+  }
+ },
+ {
+  "id": "de-22367-00108",
+  "cloze": "Aber wie ___ es denn Gregor sein?",
+  "answer": "kann",
+  "text": "Aber wie kann es denn Gregor sein?",
+  "translation": "But how can it be Gregor?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-69327-04274",
+  "cloze": "___ du nicht noch etwas von mir?",
+  "answer": "Willst",
+  "text": "Willst du nicht noch etwas von mir?",
+  "translation": "Don't you want something more from me?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-5323-01887",
+  "cloze": "Und dann sind auch die Menschen so ___.",
+  "answer": "verschieden",
+  "text": "Und dann sind auch die Menschen so verschieden.",
+  "translation": "And then people are so different, too.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-74008-04431",
+  "cloze": "Der Junge ___ den Kopf.",
+  "answer": "schüttelte",
+  "text": "Der Junge schüttelte den Kopf.",
+  "translation": "The boy shook his head.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-29376-01341",
+  "cloze": "Er wusch sich und zog die ___ über.",
+  "answer": "Kleider",
+  "text": "Er wusch sich und zog die Kleider über.",
+  "translation": "He washed and put on his clothes.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-77905-04734",
+  "cloze": "Will er ___, was ich mache?",
+  "answer": "wissen",
+  "text": "Will er wissen, was ich mache?",
+  "translation": "Does he want to know what I'm doing?",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-23313-00206",
+  "cloze": "Aber nun geben Sie ___.",
+  "answer": "acht",
+  "text": "Aber nun geben Sie acht.",
+  "translation": "But now pay attention.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-22367-00037",
+  "cloze": "Es geht noch nicht so gut, wie ich ___.",
+  "answer": "dachte",
+  "text": "Es geht noch nicht so gut, wie ich dachte.",
+  "translation": "It's not going as well yet as I thought.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-69327-03565",
+  "cloze": "Warum ist sie nicht ___?",
+  "answer": "eingetreten",
+  "text": "Warum ist sie nicht eingetreten?",
+  "translation": "Why didn't she come in?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-6651-03456",
+  "cloze": "Sie ___ und warf den Kopf herum.",
+  "answer": "lachte",
+  "text": "Sie lachte und warf den Kopf herum.",
+  "translation": "She laughed and tossed her head.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-6651-03521",
+  "cloze": "Er ___, es sei Elisabeth.",
+  "answer": "glaubte",
+  "text": "Er glaubte, es sei Elisabeth.",
+  "translation": "He thought it was Elisabeth.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-2407-00453",
+  "cloze": "Und im ___ hast du recht.",
+  "answer": "Grunde",
+  "text": "Und im Grunde hast du recht.",
+  "translation": "And basically you're right.",
+  "source": {
+   "author": "Johann Wolfgang von Goethe",
+   "title": "Die Leiden des jungen Werther",
+   "year": 1774
+  }
+ },
+ {
+  "id": "de-6651-03553",
+  "cloze": "___ Sie das Licht auf den Tisch!",
+  "answer": "Stellen",
+  "text": "Stellen Sie das Licht auf den Tisch!",
+  "translation": "Put the light on the table!",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-5323-02048",
+  "cloze": "Ach, Sie ___ so was nicht sagen.",
+  "answer": "dürfen",
+  "text": "Ach, Sie dürfen so was nicht sagen.",
+  "translation": "Oh, you mustn't say such a thing.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-22367-00125",
+  "cloze": "Also was ___ Sie eigentlich?",
+  "answer": "wollen",
+  "text": "Also was wollen Sie eigentlich?",
+  "translation": "So what do you actually want?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-5323-02724",
+  "cloze": "Und vielleicht wäre es auch das ___ gewesen.",
+  "answer": "Richtige",
+  "text": "Und vielleicht wäre es auch das Richtige gewesen.",
+  "translation": "And perhaps it would also have been the right thing.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-77905-04948",
+  "cloze": "Wo hast du das ___?",
+  "answer": "gesehen",
+  "text": "Wo hast du das gesehen?",
+  "translation": "Where did you see that?",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-74008-04501",
+  "cloze": "Was wollte die alte ___?",
+  "answer": "Hexe",
+  "text": "Was wollte die alte Hexe?",
+  "translation": "What did the old witch want?",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-77905-04874",
+  "cloze": "Das tat er und lebte zufrieden und ___ mit ihr.",
+  "answer": "glücklich",
+  "text": "Das tat er und lebte zufrieden und glücklich mit ihr.",
+  "translation": "He did so, and lived contentedly and happily with her.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-5323-02806",
+  "cloze": "Als wär es für ___.",
+  "answer": "immer",
+  "text": "Als wär es für immer.",
+  "translation": "As if it were forever.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-6651-03537",
+  "cloze": "Er sah sie seltsam ___ an.",
+  "answer": "lächelnd",
+  "text": "Er sah sie seltsam lächelnd an.",
+  "translation": "He looked at her with a strange smile.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-5323-03105",
+  "cloze": "Aber wo ___ es an?",
+  "answer": "fängt",
+  "text": "Aber wo fängt es an?",
+  "translation": "But where does it begin?",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-29376-01440",
+  "cloze": "Erwarteten sie ___ von ihm?",
+  "answer": "mehr",
+  "text": "Erwarteten sie mehr von ihm?",
+  "translation": "Did they expect more of him?",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-28042-00996",
+  "cloze": "Das kann man ___ nicht wissen!",
+  "answer": "freilich",
+  "text": "Das kann man freilich nicht wissen!",
+  "translation": "Of course one can't know that!",
+  "source": {
+   "author": "Gottfried Keller",
+   "title": "Die Leute von Seldwyla",
+   "year": 1874
+  }
+ },
+ {
+  "id": "de-69327-04155",
+  "cloze": "Aber der Advokat ___ noch immer.",
+  "answer": "schwieg",
+  "text": "Aber der Advokat schwieg noch immer.",
+  "translation": "But the lawyer still said nothing.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-2408-00568",
+  "cloze": "Und wie ___ die Äste waren!",
+  "answer": "herrlich",
+  "text": "Und wie herrlich die Äste waren!",
+  "translation": "And how magnificent the branches were!",
+  "source": {
+   "author": "Johann Wolfgang von Goethe",
+   "title": "Die Leiden des jungen Werther",
+   "year": 1774
+  }
+ },
+ {
+  "id": "de-28042-01033",
+  "cloze": "Es war nun ___ geworden.",
+  "answer": "dunkel",
+  "text": "Es war nun dunkel geworden.",
+  "translation": "It had now grown dark.",
+  "source": {
+   "author": "Gottfried Keller",
+   "title": "Die Leute von Seldwyla",
+   "year": 1874
+  }
+ },
+ {
+  "id": "de-69327-03818",
+  "cloze": "Wie kann es denn wahr ___?",
+  "answer": "sein",
+  "text": "Wie kann es denn wahr sein?",
+  "translation": "How can it be true?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-5323-02397",
+  "cloze": "Aber nun muss ich ___.",
+  "answer": "aufstehen",
+  "text": "Aber nun muss ich aufstehen.",
+  "translation": "But now I must get up.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-29376-01482",
+  "cloze": "Fragen und Fragen und nie eine ___.",
+  "answer": "Antwort",
+  "text": "Fragen und Fragen und nie eine Antwort.",
+  "translation": "Questions and questions, and never an answer.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-6651-03445",
+  "cloze": "Aber es kam kein ___.",
+  "answer": "Wind",
+  "text": "Aber es kam kein Wind.",
+  "translation": "But no wind came.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-22367-00062",
+  "cloze": "Wäre doch die Schwester hier ___!",
+  "answer": "gewesen",
+  "text": "Wäre doch die Schwester hier gewesen!",
+  "translation": "If only the sister had been here!",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-69327-04140",
+  "cloze": "Es geschah aber das ___.",
+  "answer": "Gegenteil",
+  "text": "Es geschah aber das Gegenteil.",
+  "translation": "But the opposite happened.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-23313-00222",
+  "cloze": "Aber ___ sollten Sie sich.",
+  "answer": "schämen",
+  "text": "Aber schämen sollten Sie sich.",
+  "translation": "But you should be ashamed of yourself.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-23313-00270",
+  "cloze": "Wie hell es ___ war!",
+  "answer": "draußen",
+  "text": "Wie hell es draußen war!",
+  "translation": "How bright it was outside!",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-77905-04809",
+  "cloze": "Sie sprang ihm aber aus der ___ und fiel hinab.",
+  "answer": "Hand",
+  "text": "Sie sprang ihm aber aus der Hand und fiel hinab.",
+  "translation": "But it sprang out of his hand and fell down.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-22367-00028",
+  "cloze": "Warum ging denn die ___ nicht zu den anderen?",
+  "answer": "Schwester",
+  "text": "Warum ging denn die Schwester nicht zu den anderen?",
+  "translation": "Why didn't the sister go to the others?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-5323-03127",
+  "cloze": "Johanna nahm die Briefe und wollte ___.",
+  "answer": "gehen",
+  "text": "Johanna nahm die Briefe und wollte gehen.",
+  "translation": "Johanna took the letters and was about to leave.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-77905-04641",
+  "cloze": "Er legte sich ___ und schlief ruhig ein.",
+  "answer": "nieder",
+  "text": "Er legte sich nieder und schlief ruhig ein.",
+  "translation": "He lay down and fell peacefully asleep.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-6651-03452",
+  "cloze": "Ich ___ wohl, sie sind falsch!",
+  "answer": "weiß",
+  "text": "Ich weiß wohl, sie sind falsch!",
+  "translation": "I know well, they are false!",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-77905-04913",
+  "cloze": "Endlich aber ___ er ihn doch mit der Hand.",
+  "answer": "erwischte",
+  "text": "Endlich aber erwischte er ihn doch mit der Hand.",
+  "translation": "But at last he caught it with his hand.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-6651-03510",
+  "cloze": "Dann hatten sie das Haus ___.",
+  "answer": "erreicht",
+  "text": "Dann hatten sie das Haus erreicht.",
+  "translation": "Then they had reached the house.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-69327-04093",
+  "cloze": "Das wäre aber ganz ___.",
+  "answer": "falsch",
+  "text": "Das wäre aber ganz falsch.",
+  "translation": "But that would be quite wrong.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-29376-01472",
+  "cloze": "Er war nahe am ___.",
+  "answer": "Weinen",
+  "text": "Er war nahe am Weinen.",
+  "translation": "He was close to tears.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-22367-00045",
+  "cloze": "Haben Sie auch nur ein Wort ___?",
+  "answer": "verstanden",
+  "text": "Haben Sie auch nur ein Wort verstanden?",
+  "translation": "Did you understand even a single word?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-23313-00216",
+  "cloze": "Ist der ___ überhaupt ein Mann?",
+  "answer": "Künstler",
+  "text": "Ist der Künstler überhaupt ein Mann?",
+  "translation": "Is the artist even a man?",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-5323-03382",
+  "cloze": "Aber es hilft ein ___.",
+  "answer": "bisschen",
+  "text": "Aber es hilft ein bisschen.",
+  "translation": "But it helps a little.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-6651-03529",
+  "cloze": "Ein ___ der Mutter folgte ihr.",
+  "answer": "Blick",
+  "text": "Ein Blick der Mutter folgte ihr.",
+  "translation": "A glance from her mother followed her.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-22367-00094",
+  "cloze": "Die Familie selbst aß in der ___.",
+  "answer": "Küche",
+  "text": "Die Familie selbst aß in der Küche.",
+  "translation": "The family itself ate in the kitchen.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-6651-03488",
+  "cloze": "Er ging aber darum nicht ___.",
+  "answer": "schneller",
+  "text": "Er ging aber darum nicht schneller.",
+  "translation": "But he didn't walk any faster for that.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-74008-04438",
+  "cloze": "Ich lachte ihm ins ___.",
+  "answer": "Gesicht",
+  "text": "Ich lachte ihm ins Gesicht.",
+  "translation": "I laughed in his face.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-69327-03640",
+  "cloze": "Und ___ fängt es also wirklich an.",
+  "answer": "jetzt",
+  "text": "Und jetzt fängt es also wirklich an.",
+  "translation": "And now it really begins.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-35312-01604",
+  "cloze": "Aber ___ erschrak ich sehr.",
+  "answer": "zuletzt",
+  "text": "Aber zuletzt erschrak ich sehr.",
+  "translation": "But in the end I got a real fright.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-23313-00229",
+  "cloze": "Und nehmen Sie eine neue ___.",
+  "answer": "Zigarette",
+  "text": "Und nehmen Sie eine neue Zigarette.",
+  "translation": "And take a fresh cigarette.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-6651-03491",
+  "cloze": "Ich habe ein ___, ein schönes!",
+  "answer": "Geheimnis",
+  "text": "Ich habe ein Geheimnis, ein schönes!",
+  "translation": "I have a secret, a lovely one!",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-69327-03569",
+  "cloze": "Sie führen sich ärger auf als ein ___.",
+  "answer": "Kind",
+  "text": "Sie führen sich ärger auf als ein Kind.",
+  "translation": "You're behaving worse than a child.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-29376-01433",
+  "cloze": "Er öffnete die Glastür und trat in den ___.",
+  "answer": "Laden",
+  "text": "Er öffnete die Glastür und trat in den Laden.",
+  "translation": "He opened the glass door and stepped into the shop.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-74008-04344",
+  "cloze": "Da fielen seine ___ auch auf sie.",
+  "answer": "Blicke",
+  "text": "Da fielen seine Blicke auch auf sie.",
+  "translation": "Then his eyes fell on her too.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-6651-03496",
+  "cloze": "Man kam die ___ herauf.",
+  "answer": "Treppe",
+  "text": "Man kam die Treppe herauf.",
+  "translation": "Someone was coming up the stairs.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-69327-04085",
+  "cloze": "Er konnte Ihnen aber kaum ___.",
+  "answer": "antworten",
+  "text": "Er konnte Ihnen aber kaum antworten.",
+  "translation": "But he could hardly answer you.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-35312-01684",
+  "cloze": "Hast du das Mädchen ___?",
+  "answer": "gesprochen",
+  "text": "Hast du das Mädchen gesprochen?",
+  "translation": "Have you spoken to the girl?",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-22367-00056",
+  "cloze": "Machen Sie es mir aber nicht ___, als es schon ist.",
+  "answer": "schwieriger",
+  "text": "Machen Sie es mir aber nicht schwieriger, als es schon ist.",
+  "translation": "But don't make it harder for me than it already is.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-5323-01768",
+  "cloze": "Und was sagt dein ___ dazu?",
+  "answer": "Vater",
+  "text": "Und was sagt dein Vater dazu?",
+  "translation": "And what does your father say to that?",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-23313-00146",
+  "cloze": "Warum muss er kommen und uns ___!",
+  "answer": "stören",
+  "text": "Warum muss er kommen und uns stören!",
+  "translation": "Why must he come and disturb us!",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-29376-01436",
+  "cloze": "Es musste doch einen ___ haben.",
+  "answer": "Grund",
+  "text": "Es musste doch einen Grund haben.",
+  "translation": "There had to be a reason for it.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-5323-03164",
+  "cloze": "Überlegen Sie sich das, liebe ___.",
+  "answer": "Freundin",
+  "text": "Überlegen Sie sich das, liebe Freundin.",
+  "translation": "Think it over, dear friend.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-69327-03592",
+  "cloze": "Nein, nein, das geht ___ nicht.",
+  "answer": "wirklich",
+  "text": "Nein, nein, das geht wirklich nicht.",
+  "translation": "No, no, that really won't do.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-22367-00014",
+  "cloze": "Wie nun, wenn er sich ___ meldete?",
+  "answer": "krank",
+  "text": "Wie nun, wenn er sich krank meldete?",
+  "translation": "What if he reported himself sick?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-77905-04885",
+  "cloze": "Nicht lange, so klopfte ___ an.",
+  "answer": "jemand",
+  "text": "Nicht lange, so klopfte jemand an.",
+  "translation": "Before long, someone knocked.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-23313-00220",
+  "cloze": "Kommen Sie nun zum ___.",
+  "answer": "Tee",
+  "text": "Kommen Sie nun zum Tee.",
+  "translation": "Now come and have tea.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-5323-01917",
+  "cloze": "Dies war am Tage nach der ___.",
+  "answer": "Hochzeit",
+  "text": "Dies war am Tage nach der Hochzeit.",
+  "translation": "This was on the day after the wedding.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-6651-03533",
+  "cloze": "Wo sind Sie denn so ___ in der Nacht gewesen?",
+  "answer": "spät",
+  "text": "Wo sind Sie denn so spät in der Nacht gewesen?",
+  "translation": "Where have you been so late at night?",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-74008-04518",
+  "cloze": "War es der ___ seines Kindes?",
+  "answer": "Vogel",
+  "text": "War es der Vogel seines Kindes?",
+  "translation": "Was it his child's bird?",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-2407-00392",
+  "cloze": "Seit der Zeit bin ich ___ draußen.",
+  "answer": "oft",
+  "text": "Seit der Zeit bin ich oft draußen.",
+  "translation": "Since then I am often outdoors.",
+  "source": {
+   "author": "Johann Wolfgang von Goethe",
+   "title": "Die Leiden des jungen Werther",
+   "year": 1774
+  }
+ },
+ {
+  "id": "de-77905-04796",
+  "cloze": "Nun trug es sich zu, dass der König ___.",
+  "answer": "erkrankte",
+  "text": "Nun trug es sich zu, dass der König erkrankte.",
+  "translation": "Now it happened that the king fell ill.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-22367-00034",
+  "cloze": "Jetzt bin ich aber schon wieder ganz ___.",
+  "answer": "frisch",
+  "text": "Jetzt bin ich aber schon wieder ganz frisch.",
+  "translation": "But now I'm quite fresh again.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-6651-03467",
+  "cloze": "Reinhard hatte schon die ___ geöffnet.",
+  "answer": "Tür",
+  "text": "Reinhard hatte schon die Tür geöffnet.",
+  "translation": "Reinhard had already opened the door.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-77905-04906",
+  "cloze": "Da gingen sie ___ hinaus auf die Landstraße.",
+  "answer": "beide",
+  "text": "Da gingen sie beide hinaus auf die Landstraße.",
+  "translation": "Then they both went out onto the country road.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-22367-00017",
+  "cloze": "Das musste aber ___ werden.",
+  "answer": "gewagt",
+  "text": "Das musste aber gewagt werden.",
+  "translation": "But it had to be risked.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-22367-00077",
+  "cloze": "Also was ___ wir jetzt?",
+  "answer": "nehmen",
+  "text": "Also was nehmen wir jetzt?",
+  "translation": "So what shall we have now?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-6651-03478",
+  "cloze": "Sie sah ihn staunend an, sie ___ ihn nicht.",
+  "answer": "verstand",
+  "text": "Sie sah ihn staunend an, sie verstand ihn nicht.",
+  "translation": "She looked at him in astonishment; she didn't understand him.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-6651-03489",
+  "cloze": "Sie nickte und sah ihm ___ ins Gesicht.",
+  "answer": "freundlich",
+  "text": "Sie nickte und sah ihm freundlich ins Gesicht.",
+  "translation": "She nodded and looked him kindly in the face.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-77905-04539",
+  "cloze": "Er verwunderte sich und wusste nicht, was er dazu ___ sollte.",
+  "answer": "sagen",
+  "text": "Er verwunderte sich und wusste nicht, was er dazu sagen sollte.",
+  "translation": "He was puzzled and didn't know what to say to it.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-6651-03480",
+  "cloze": "Bald trat die ___ wieder herein.",
+  "answer": "Mutter",
+  "text": "Bald trat die Mutter wieder herein.",
+  "translation": "Soon the mother came back in.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-69327-03811",
+  "cloze": "Was habe ich ___, Josef?",
+  "answer": "gehört",
+  "text": "Was habe ich gehört, Josef?",
+  "translation": "What did I hear, Josef?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-77905-04566",
+  "cloze": "Wer aber hereinkam, das war der ___.",
+  "answer": "Wolf",
+  "text": "Wer aber hereinkam, das war der Wolf.",
+  "translation": "But the one who came in was the wolf.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-5323-01820",
+  "cloze": "Er hob sein Glas und stieß mit Frau und ___ an.",
+  "answer": "Tochter",
+  "text": "Er hob sein Glas und stieß mit Frau und Tochter an.",
+  "translation": "He raised his glass and clinked with his wife and daughter.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-22367-00033",
+  "cloze": "Ich ___ noch jetzt im Bett.",
+  "answer": "liege",
+  "text": "Ich liege noch jetzt im Bett.",
+  "translation": "I'm still lying in bed even now.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-6651-03548",
+  "cloze": "Sie ließ ihre Hand sinken und sagte ___ mehr.",
+  "answer": "nichts",
+  "text": "Sie ließ ihre Hand sinken und sagte nichts mehr.",
+  "translation": "She let her hand drop and said nothing more.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-6651-03513",
+  "cloze": "Er streckte ihr lächelnd die Hand ___.",
+  "answer": "entgegen",
+  "text": "Er streckte ihr lächelnd die Hand entgegen.",
+  "translation": "Smiling, he held out his hand to her.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-23313-00301",
+  "cloze": "Nein, er hatte keine ___ dazu.",
+  "answer": "Lust",
+  "text": "Nein, er hatte keine Lust dazu.",
+  "translation": "No, he didn't feel like it.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-23313-00166",
+  "cloze": "Wie gut sie ___ verstanden!",
+  "answer": "einander",
+  "text": "Wie gut sie einander verstanden!",
+  "translation": "How well they understood each other!",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-77905-04709",
+  "cloze": "Sie fasste beide an der Hand und führte sie in ihr ___.",
+  "answer": "Häuschen",
+  "text": "Sie fasste beide an der Hand und führte sie in ihr Häuschen.",
+  "translation": "She took them both by the hand and led them into her little house.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-69327-04131",
+  "cloze": "Der Advokat sah ihn ___ an.",
+  "answer": "fragend",
+  "text": "Der Advokat sah ihn fragend an.",
+  "translation": "The lawyer looked at him questioningly.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-35312-01607",
+  "cloze": "Ich muss sagen, das ___ mir recht wohl.",
+  "answer": "gefiel",
+  "text": "Ich muss sagen, das gefiel mir recht wohl.",
+  "translation": "I must say, I quite liked that.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-5323-02274",
+  "cloze": "Ich werde doch vielleicht ___.",
+  "answer": "tanzen",
+  "text": "Ich werde doch vielleicht tanzen.",
+  "translation": "Perhaps I will dance after all.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-22367-00074",
+  "cloze": "Das genügte, um die Mutter ___ zu machen.",
+  "answer": "aufmerksam",
+  "text": "Das genügte, um die Mutter aufmerksam zu machen.",
+  "translation": "That was enough to alert the mother.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-2408-00772",
+  "cloze": "Ich bitte dich, sei ___!",
+  "answer": "ruhig",
+  "text": "Ich bitte dich, sei ruhig!",
+  "translation": "I beg you, be calm!",
+  "source": {
+   "author": "Johann Wolfgang von Goethe",
+   "title": "Die Leiden des jungen Werther",
+   "year": 1774
+  }
+ },
+ {
+  "id": "de-6651-03477",
+  "cloze": "Du siehst so ___ aus.",
+  "answer": "traurig",
+  "text": "Du siehst so traurig aus.",
+  "translation": "You look so sad.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-28042-00981",
+  "cloze": "Aber leider muss ich selbst in die ___ gehen.",
+  "answer": "Schule",
+  "text": "Aber leider muss ich selbst in die Schule gehen.",
+  "translation": "But unfortunately I have to go to school myself.",
+  "source": {
+   "author": "Gottfried Keller",
+   "title": "Die Leute von Seldwyla",
+   "year": 1874
+  }
+ },
+ {
+  "id": "de-5323-01999",
+  "cloze": "Ist es denn etwas ___ damit?",
+  "answer": "Besonderes",
+  "text": "Ist es denn etwas Besonderes damit?",
+  "translation": "Is there something special about it, then?",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-23313-00131",
+  "cloze": "Dann ___ ich noch ein bisschen mit Kröger.",
+  "answer": "gehe",
+  "text": "Dann gehe ich noch ein bisschen mit Kröger.",
+  "translation": "Then I'll walk a little further with Kröger.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-22367-00023",
+  "cloze": "Also bitte mach die Tür ___.",
+  "answer": "auf",
+  "text": "Also bitte mach die Tür auf.",
+  "translation": "So please open the door.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-22367-00040",
+  "cloze": "Man hätte es mir ___ müssen.",
+  "answer": "ansehen",
+  "text": "Man hätte es mir ansehen müssen.",
+  "translation": "One would have had to see it in my face.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-74008-04477",
+  "cloze": "Das Kind sah ins ___.",
+  "answer": "Weite",
+  "text": "Das Kind sah ins Weite.",
+  "translation": "The child gazed into the distance.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-5323-02623",
+  "cloze": "Du ___ ja nichts, Effi.",
+  "answer": "sagst",
+  "text": "Du sagst ja nichts, Effi.",
+  "translation": "You're not saying anything, Effi.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-77905-04540",
+  "cloze": "Er nahm die ___ in die Hand, um sie näher zu betrachten.",
+  "answer": "Schuhe",
+  "text": "Er nahm die Schuhe in die Hand, um sie näher zu betrachten.",
+  "translation": "He took the shoes in his hand to look at them more closely.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-6651-03532",
+  "cloze": "Er kleidete sich an und ging ___ nach Hause zurück.",
+  "answer": "langsam",
+  "text": "Er kleidete sich an und ging langsam nach Hause zurück.",
+  "translation": "He got dressed and walked slowly back home.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-77905-04827",
+  "cloze": "Ach Gott, was ist das Haus so ___!",
+  "answer": "klein",
+  "text": "Ach Gott, was ist das Haus so klein!",
+  "translation": "Oh God, how small the house is!",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-6651-03475",
+  "cloze": "Aber Sie haben mir kein ___ davon gesagt.",
+  "answer": "Wort",
+  "text": "Aber Sie haben mir kein Wort davon gesagt.",
+  "translation": "But you haven't said a word to me about it.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-22367-00100",
+  "cloze": "War er ein ___, da ihn Musik so ergriff?",
+  "answer": "Tier",
+  "text": "War er ein Tier, da ihn Musik so ergriff?",
+  "translation": "Was he an animal, that music moved him so?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-23313-00286",
+  "cloze": "Ich bin Ihnen sehr ___.",
+  "answer": "verbunden",
+  "text": "Ich bin Ihnen sehr verbunden.",
+  "translation": "I am much obliged to you.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-77905-04944",
+  "cloze": "Und als er anlangte, war alles so, wie der ___ gesagt hatte.",
+  "answer": "Zwerg",
+  "text": "Und als er anlangte, war alles so, wie der Zwerg gesagt hatte.",
+  "translation": "And when he arrived, everything was as the dwarf had said.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-29376-01167",
+  "cloze": "Er begann leise zu ___.",
+  "answer": "zittern",
+  "text": "Er begann leise zu zittern.",
+  "translation": "He began to tremble slightly.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-77905-04567",
+  "cloze": "Sie erschraken und wollten sich ___.",
+  "answer": "verstecken",
+  "text": "Sie erschraken und wollten sich verstecken.",
+  "translation": "They were frightened and wanted to hide.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-22367-00105",
+  "cloze": "Die Schwester ___ zur Mutter und hielt ihr die Stirn.",
+  "answer": "eilte",
+  "text": "Die Schwester eilte zur Mutter und hielt ihr die Stirn.",
+  "translation": "The sister hurried to her mother and held her forehead.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-69327-03746",
+  "cloze": "Dann sind es ja meine ___.",
+  "answer": "Kollegen",
+  "text": "Dann sind es ja meine Kollegen.",
+  "translation": "Then they're my colleagues.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-6651-03504",
+  "cloze": "Dann setzte er ___ seinen Weg fort.",
+  "answer": "plötzlich",
+  "text": "Dann setzte er plötzlich seinen Weg fort.",
+  "translation": "Then he suddenly continued on his way.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-74008-04425",
+  "cloze": "Der Junge reckte den ___.",
+  "answer": "Hals",
+  "text": "Der Junge reckte den Hals.",
+  "translation": "The boy craned his neck.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-74008-04507",
+  "cloze": "Der Hausherr ___ noch am Fenster.",
+  "answer": "stand",
+  "text": "Der Hausherr stand noch am Fenster.",
+  "translation": "The master of the house was still standing at the window.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-77905-04955",
+  "cloze": "Wie sollen wir nun ___?",
+  "answer": "hinüber",
+  "text": "Wie sollen wir nun hinüber?",
+  "translation": "How are we to get across now?",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-22367-00003",
+  "cloze": "Der Mensch muss seinen ___ haben.",
+  "answer": "Schlaf",
+  "text": "Der Mensch muss seinen Schlaf haben.",
+  "translation": "A person must have their sleep.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-22367-00078",
+  "cloze": "Nun, sie konnte es ja immerhin ___!",
+  "answer": "versuchen",
+  "text": "Nun, sie konnte es ja immerhin versuchen!",
+  "translation": "Well, she could at least try!",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-5323-03117",
+  "cloze": "Er war nach der Überanstrengung todmüde und ___ ein.",
+  "answer": "schlief",
+  "text": "Er war nach der Überanstrengung todmüde und schlief ein.",
+  "translation": "After the overexertion he was dead tired and fell asleep.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-22367-00025",
+  "cloze": "Der Junge hat ja nichts im Kopf als das ___.",
+  "answer": "Geschäft",
+  "text": "Der Junge hat ja nichts im Kopf als das Geschäft.",
+  "translation": "The boy has nothing in his head but business.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-23313-00329",
+  "cloze": "Manchmal war es dort ___ und sommerlich.",
+  "answer": "still",
+  "text": "Manchmal war es dort still und sommerlich.",
+  "translation": "Sometimes it was quiet and summery there.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-23313-00315",
+  "cloze": "Sie sind wohl ___ hier, Herr?",
+  "answer": "fremd",
+  "text": "Sie sind wohl fremd hier, Herr?",
+  "translation": "You must be a stranger here, sir?",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-77905-04677",
+  "cloze": "Dann schlossen sie die Tür ab und ___ davon.",
+  "answer": "liefen",
+  "text": "Dann schlossen sie die Tür ab und liefen davon.",
+  "translation": "Then they locked the door and ran away.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-6651-03516",
+  "cloze": "Du bist so ___, Erich!",
+  "answer": "gut",
+  "text": "Du bist so gut, Erich!",
+  "translation": "You are so good, Erich!",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-69327-04296",
+  "cloze": "Er hob die ___ und spreizte alle Finger.",
+  "answer": "Hände",
+  "text": "Er hob die Hände und spreizte alle Finger.",
+  "translation": "He raised his hands and spread all his fingers.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-74008-04530",
+  "cloze": "Haben Sie Dank für diesen ___!",
+  "answer": "Abend",
+  "text": "Haben Sie Dank für diesen Abend!",
+  "translation": "Thank you for this evening!",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-5323-02823",
+  "cloze": "Sie erschrak bei seinem Anblick und ___ sich doch auch.",
+  "answer": "freute",
+  "text": "Sie erschrak bei seinem Anblick und freute sich doch auch.",
+  "translation": "She was startled at the sight of him, and yet was glad too.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-22367-00120",
+  "cloze": "Die Bedienerin schloss die Tür und ___ gänzlich das Fenster.",
+  "answer": "öffnete",
+  "text": "Die Bedienerin schloss die Tür und öffnete gänzlich das Fenster.",
+  "translation": "The cleaning woman shut the door and opened the window wide.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-6651-03430",
+  "cloze": "Wenn ich ___ bin, will ich einmal selber hin.",
+  "answer": "groß",
+  "text": "Wenn ich groß bin, will ich einmal selber hin.",
+  "translation": "When I'm big, I want to go there myself one day.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-5323-01800",
+  "cloze": "Gott, Effi, wie du nur ___.",
+  "answer": "sprichst",
+  "text": "Gott, Effi, wie du nur sprichst.",
+  "translation": "Goodness, Effi, how you talk.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-29376-01264",
+  "cloze": "Die Männer ___ sich leise.",
+  "answer": "beraten",
+  "text": "Die Männer beraten sich leise.",
+  "translation": "The men confer quietly.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-6651-03493",
+  "cloze": "Noch ___ nahm Reinhard ihre Hand.",
+  "answer": "einmal",
+  "text": "Noch einmal nahm Reinhard ihre Hand.",
+  "translation": "Once more Reinhard took her hand.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-6651-03545",
+  "cloze": "Er setzte sich hin, um zu ___, aber er hatte keine Gedanken.",
+  "answer": "arbeiten",
+  "text": "Er setzte sich hin, um zu arbeiten, aber er hatte keine Gedanken.",
+  "translation": "He sat down to work, but he had no thoughts.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-69327-03617",
+  "cloze": "Der ___ schien still in das dunkle Zimmer.",
+  "answer": "Mond",
+  "text": "Der Mond schien still in das dunkle Zimmer.",
+  "translation": "The moon shone quietly into the dark room.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-5323-02872",
+  "cloze": "Ich denke, das beste ist, wir ___ es ab.",
+  "answer": "warten",
+  "text": "Ich denke, das beste ist, wir warten es ab.",
+  "translation": "I think the best thing is for us to wait and see.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-77905-04642",
+  "cloze": "Am andern Morgen kam der ___ und wollte sich erkundigen.",
+  "answer": "König",
+  "text": "Am andern Morgen kam der König und wollte sich erkundigen.",
+  "translation": "The next morning the king came and wanted to inquire.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-22367-00054",
+  "cloze": "Andererseits habe ich die Sorge um meine ___ und die Schwester.",
+  "answer": "Eltern",
+  "text": "Andererseits habe ich die Sorge um meine Eltern und die Schwester.",
+  "translation": "On the other hand, I have my parents and my sister to worry about.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-6651-03495",
+  "cloze": "Reinhard stieg hinein, und die ___ zogen an.",
+  "answer": "Pferde",
+  "text": "Reinhard stieg hinein, und die Pferde zogen an.",
+  "translation": "Reinhard climbed in, and the horses started off.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-22367-00119",
+  "cloze": "Er hat ja auch schon so lange Zeit nichts ___.",
+  "answer": "gegessen",
+  "text": "Er hat ja auch schon so lange Zeit nichts gegessen.",
+  "translation": "After all, he hasn't eaten anything for such a long time.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-22367-00019",
+  "cloze": "Einen ___ blieb alles still.",
+  "answer": "Augenblick",
+  "text": "Einen Augenblick blieb alles still.",
+  "translation": "For a moment everything stayed silent.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-22367-00110",
+  "cloze": "Nun sahen ihn alle ___ und traurig an.",
+  "answer": "schweigend",
+  "text": "Nun sahen ihn alle schweigend und traurig an.",
+  "translation": "Now they all looked at him in silence and sadness.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-5323-01785",
+  "cloze": "Du siehst ___ sehr gut aus.",
+  "answer": "gerade",
+  "text": "Du siehst gerade sehr gut aus.",
+  "translation": "You look very well right now.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-22367-00102",
+  "cloze": "Er schwieg und sah gerade vor sich hin, als erwarte er ___.",
+  "answer": "etwas",
+  "text": "Er schwieg und sah gerade vor sich hin, als erwarte er etwas.",
+  "translation": "He was silent and stared straight ahead, as if expecting something.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-77905-04662",
+  "cloze": "Vater, ich bin ein ___ geworden.",
+  "answer": "Schreiner",
+  "text": "Vater, ich bin ein Schreiner geworden.",
+  "translation": "Father, I have become a carpenter.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-29376-01322",
+  "cloze": "Sie überlegte, ob sie ___ machen sollte.",
+  "answer": "Licht",
+  "text": "Sie überlegte, ob sie Licht machen sollte.",
+  "translation": "She wondered whether she should turn on a light.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-6651-03433",
+  "cloze": "Aber meine Mutter wird ___.",
+  "answer": "weinen",
+  "text": "Aber meine Mutter wird weinen.",
+  "translation": "But my mother will cry.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-69327-04038",
+  "cloze": "Sie haben jetzt ___ und wir bleiben doch in Verbindung.",
+  "answer": "Eile",
+  "text": "Sie haben jetzt Eile und wir bleiben doch in Verbindung.",
+  "translation": "You're in a hurry now, and we'll stay in touch anyway.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-22367-00122",
+  "cloze": "Es war eben schon ___ März.",
+  "answer": "Ende",
+  "text": "Es war eben schon Ende März.",
+  "translation": "It was already the end of March.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-5323-03143",
+  "cloze": "___ Jahre ist nicht lange her.",
+  "answer": "Sechs",
+  "text": "Sechs Jahre ist nicht lange her.",
+  "translation": "Six years isn't long ago.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-5323-02167",
+  "cloze": "Das ist ein geringer ___.",
+  "answer": "Trost",
+  "text": "Das ist ein geringer Trost.",
+  "translation": "That is small comfort.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-23313-00294",
+  "cloze": "Er war klein, ___ und krummbeinig.",
+  "answer": "fett",
+  "text": "Er war klein, fett und krummbeinig.",
+  "translation": "He was short, fat and bow-legged.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-6651-03497",
+  "cloze": "Ein ___ für Sie, Herr Werner!",
+  "answer": "Brief",
+  "text": "Ein Brief für Sie, Herr Werner!",
+  "translation": "A letter for you, Mr Werner!",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-28042-00835",
+  "cloze": "Ich wollte nicht, aber die Mutter weinte so sehr, dass ich mich ___.",
+  "answer": "ergab",
+  "text": "Ich wollte nicht, aber die Mutter weinte so sehr, dass ich mich ergab.",
+  "translation": "I didn't want to, but my mother cried so much that I gave in.",
+  "source": {
+   "author": "Gottfried Keller",
+   "title": "Die Leute von Seldwyla",
+   "year": 1874
+  }
+ },
+ {
+  "id": "de-69327-03625",
+  "cloze": "Es klang wie eine ___, nicht wie ein Anruf.",
+  "answer": "Bitte",
+  "text": "Es klang wie eine Bitte, nicht wie ein Anruf.",
+  "translation": "It sounded like a request, not like a call.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-35312-01653",
+  "cloze": "Ich sprang ___ auf und sah mich nach allen Seiten um.",
+  "answer": "rasch",
+  "text": "Ich sprang rasch auf und sah mich nach allen Seiten um.",
+  "translation": "I jumped up quickly and looked around on all sides.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-5323-01900",
+  "cloze": "Hat sie dir ihr ___ ausgeschüttet?",
+  "answer": "Herz",
+  "text": "Hat sie dir ihr Herz ausgeschüttet?",
+  "translation": "Did she pour her heart out to you?",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-5323-02769",
+  "cloze": "Nun, Effi, du ___ so ruhig.",
+  "answer": "bleibst",
+  "text": "Nun, Effi, du bleibst so ruhig.",
+  "translation": "Well, Effi, you're staying so calm.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-6651-03534",
+  "cloze": "Das ___ wieder einmal kein Mensch!",
+  "answer": "versteht",
+  "text": "Das versteht wieder einmal kein Mensch!",
+  "translation": "Once again nobody understands that!",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-22367-00022",
+  "cloze": "Übrigens will er auch mit dir ___ sprechen.",
+  "answer": "persönlich",
+  "text": "Übrigens will er auch mit dir persönlich sprechen.",
+  "translation": "By the way, he also wants to speak to you personally.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-22367-00035",
+  "cloze": "Eben steige ich aus dem ___.",
+  "answer": "Bett",
+  "text": "Eben steige ich aus dem Bett.",
+  "translation": "I'm just getting out of bed.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-77905-04780",
+  "cloze": "Die zwei richteten sich auf, konnten aber nichts ___.",
+  "answer": "sehen",
+  "text": "Die zwei richteten sich auf, konnten aber nichts sehen.",
+  "translation": "The two sat up, but could see nothing.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-35312-01611",
+  "cloze": "Ich konnte mich gar nicht besinnen, wo ich ___ wäre.",
+  "answer": "eigentlich",
+  "text": "Ich konnte mich gar nicht besinnen, wo ich eigentlich wäre.",
+  "translation": "I couldn't recall at all where I actually was.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-69327-04026",
+  "cloze": "Ich musste mich ganz ___ fassen.",
+  "answer": "kurz",
+  "text": "Ich musste mich ganz kurz fassen.",
+  "translation": "I had to be very brief.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-74008-04356",
+  "cloze": "Hauke sah sie mit halbem ___ an.",
+  "answer": "Lächeln",
+  "text": "Hauke sah sie mit halbem Lächeln an.",
+  "translation": "Hauke looked at her with a half smile.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-69327-04057",
+  "cloze": "Willst du noch heute mit dem Advokaten ___?",
+  "answer": "sprechen",
+  "text": "Willst du noch heute mit dem Advokaten sprechen?",
+  "translation": "Do you want to speak to the lawyer today?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-35312-01520",
+  "cloze": "Ich kann dich hier nicht ___ füttern.",
+  "answer": "länger",
+  "text": "Ich kann dich hier nicht länger füttern.",
+  "translation": "I can't feed you here any longer.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-77905-04836",
+  "cloze": "Es war einmal ein Mann, der verstand allerlei ___.",
+  "answer": "Künste",
+  "text": "Es war einmal ein Mann, der verstand allerlei Künste.",
+  "translation": "Once upon a time there was a man who knew all sorts of arts.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-5323-02337",
+  "cloze": "Auch Johanna hörte dabei ___ zu.",
+  "answer": "gerne",
+  "text": "Auch Johanna hörte dabei gerne zu.",
+  "translation": "Johanna also liked to listen.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-69327-04051",
+  "cloze": "Ist das Ihr wirklicher ___?",
+  "answer": "Name",
+  "text": "Ist das Ihr wirklicher Name?",
+  "translation": "Is that your real name?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-22367-00116",
+  "cloze": "An seine ___ dachte er mit Rührung und Liebe zurück.",
+  "answer": "Familie",
+  "text": "An seine Familie dachte er mit Rührung und Liebe zurück.",
+  "translation": "He thought back on his family with emotion and love.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-74008-04498",
+  "cloze": "Sie ist nun ___ von uns, beim lieben Gott.",
+  "answer": "weit",
+  "text": "Sie ist nun weit von uns, beim lieben Gott.",
+  "translation": "She is far from us now, with the good Lord.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-69327-03760",
+  "cloze": "Er hat kein ___ Herz.",
+  "answer": "hartes",
+  "text": "Er hat kein hartes Herz.",
+  "translation": "He doesn't have a hard heart.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-74008-04495",
+  "cloze": "Als er nach ___ kam, ergriff Elke seine Hand.",
+  "answer": "Hause",
+  "text": "Als er nach Hause kam, ergriff Elke seine Hand.",
+  "translation": "When he came home, Elke seized his hand.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-6651-03463",
+  "cloze": "Aber du ___ nicht Wort, Reinhard.",
+  "answer": "hältst",
+  "text": "Aber du hältst nicht Wort, Reinhard.",
+  "translation": "But you don't keep your word, Reinhard.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-35312-01609",
+  "cloze": "Ich ___ am Fenster, aber es war alles still draußen.",
+  "answer": "horchte",
+  "text": "Ich horchte am Fenster, aber es war alles still draußen.",
+  "translation": "I listened at the window, but all was quiet outside.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-23313-00211",
+  "cloze": "Denn man muss wissen, was man will, nicht ___?",
+  "answer": "wahr",
+  "text": "Denn man muss wissen, was man will, nicht wahr?",
+  "translation": "For one has to know what one wants, isn't that so?",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-77905-04731",
+  "cloze": "Und dieser Schlaf verbreitete sich über das ___ Schloss.",
+  "answer": "ganze",
+  "text": "Und dieser Schlaf verbreitete sich über das ganze Schloss.",
+  "translation": "And this sleep spread over the whole castle.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-5323-03025",
+  "cloze": "Wo haben die ___ gelegen, Johanna?",
+  "answer": "Briefe",
+  "text": "Wo haben die Briefe gelegen, Johanna?",
+  "translation": "Where were the letters lying, Johanna?",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-5323-02527",
+  "cloze": "Damit darf man sich nicht ___, Effi.",
+  "answer": "quälen",
+  "text": "Damit darf man sich nicht quälen, Effi.",
+  "translation": "One mustn't torment oneself with that, Effi.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-6651-03444",
+  "cloze": "An den Rückweg hatte Reinhard nicht ___.",
+  "answer": "gedacht",
+  "text": "An den Rückweg hatte Reinhard nicht gedacht.",
+  "translation": "Reinhard hadn't thought about the way back.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-22367-00072",
+  "cloze": "Schon ihr Eintritt war für ihn ___.",
+  "answer": "schrecklich",
+  "text": "Schon ihr Eintritt war für ihn schrecklich.",
+  "translation": "Even her entrance was terrible for him.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-29376-01496",
+  "cloze": "Gegen ___ mochte es sein.",
+  "answer": "Mittag",
+  "text": "Gegen Mittag mochte es sein.",
+  "translation": "It must have been around noon.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-77905-04609",
+  "cloze": "Ja, es gibt viel Trübsal und Not auf der ___!",
+  "answer": "Welt",
+  "text": "Ja, es gibt viel Trübsal und Not auf der Welt!",
+  "translation": "Yes, there is much sorrow and hardship in the world!",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-22367-00085",
+  "cloze": "Er versank nur noch ___ in seinen Sessel.",
+  "answer": "tiefer",
+  "text": "Er versank nur noch tiefer in seinen Sessel.",
+  "translation": "He only sank deeper into his armchair.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-23313-00174",
+  "cloze": "Aber deshalb war seine Haltung so ___!",
+  "answer": "stolz",
+  "text": "Aber deshalb war seine Haltung so stolz!",
+  "translation": "But that's why his bearing was so proud!",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-22367-00123",
+  "cloze": "Verlassen Sie ___ meine Wohnung!",
+  "answer": "sofort",
+  "text": "Verlassen Sie sofort meine Wohnung!",
+  "translation": "Leave my flat at once!",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-6651-03471",
+  "cloze": "Am Morgen nach seiner ___ ging er zu Elisabeth.",
+  "answer": "Ankunft",
+  "text": "Am Morgen nach seiner Ankunft ging er zu Elisabeth.",
+  "translation": "On the morning after his arrival he went to Elisabeth.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-6651-03429",
+  "cloze": "Dann gingen sie beide hinein und setzten sich auf die neue ___.",
+  "answer": "Bank",
+  "text": "Dann gingen sie beide hinein und setzten sich auf die neue Bank.",
+  "translation": "Then they both went in and sat down on the new bench.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-6651-03525",
+  "cloze": "Wer hat doch aber die schönen ___ gemacht?",
+  "answer": "Lieder",
+  "text": "Wer hat doch aber die schönen Lieder gemacht?",
+  "translation": "But who made the beautiful songs?",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-74008-04464",
+  "cloze": "Seine Augen flogen über die ___, die bei den Wagen standen.",
+  "answer": "Männer",
+  "text": "Seine Augen flogen über die Männer, die bei den Wagen standen.",
+  "translation": "His eyes flew over the men standing by the wagons.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-77905-04846",
+  "cloze": "Darauf nahm er ___ und begann seine Wanderschaft.",
+  "answer": "Abschied",
+  "text": "Darauf nahm er Abschied und begann seine Wanderschaft.",
+  "translation": "Then he took his leave and began his travels.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-77905-04559",
+  "cloze": "Sie zauderte, bis es endlich der König ___.",
+  "answer": "befahl",
+  "text": "Sie zauderte, bis es endlich der König befahl.",
+  "translation": "She hesitated until at last the king commanded it.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-22367-00048",
+  "cloze": "Gregor war aber viel ___ geworden.",
+  "answer": "ruhiger",
+  "text": "Gregor war aber viel ruhiger geworden.",
+  "translation": "But Gregor had become much calmer.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-22367-00052",
+  "cloze": "___ gehen Sie denn, Herr Prokurist?",
+  "answer": "Wohin",
+  "text": "Wohin gehen Sie denn, Herr Prokurist?",
+  "translation": "Where are you going, Mr Chief Clerk?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-6651-03550",
+  "cloze": "Er tat einen ___ vorwärts und streckte die Arme nach ihr aus.",
+  "answer": "Schritt",
+  "text": "Er tat einen Schritt vorwärts und streckte die Arme nach ihr aus.",
+  "translation": "He took a step forward and stretched out his arms toward her.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-6651-03425",
+  "cloze": "Der Mann ___ ihr mit seinem Rohrstock.",
+  "answer": "winkte",
+  "text": "Der Mann winkte ihr mit seinem Rohrstock.",
+  "translation": "The man waved to her with his cane.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-35312-01672",
+  "cloze": "Die eine ___, die andere spielte Gitarre dazu.",
+  "answer": "sang",
+  "text": "Die eine sang, die andere spielte Gitarre dazu.",
+  "translation": "One sang, the other played the guitar along.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-74008-04506",
+  "cloze": "Es war vor Allerheiligen, im ___.",
+  "answer": "Oktober",
+  "text": "Es war vor Allerheiligen, im Oktober.",
+  "translation": "It was before All Saints' Day, in October.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-69327-03967",
+  "cloze": "Noch ___ hatte ihn so offen gefragt.",
+  "answer": "niemand",
+  "text": "Noch niemand hatte ihn so offen gefragt.",
+  "translation": "No one had yet asked him so openly.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-69327-03894",
+  "cloze": "Es konnte nicht sehr ___ sein, was sie tun würden.",
+  "answer": "zweifelhaft",
+  "text": "Es konnte nicht sehr zweifelhaft sein, was sie tun würden.",
+  "translation": "There could be little doubt about what they would do.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-77905-04967",
+  "cloze": "Endlich ___ sie doch und schleppte sich hinaus.",
+  "answer": "entkam",
+  "text": "Endlich entkam sie doch und schleppte sich hinaus.",
+  "translation": "At last she escaped and dragged herself outside.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-29376-01405",
+  "cloze": "Ohne ___ war es eine Fähigkeit.",
+  "answer": "Zweifel",
+  "text": "Ohne Zweifel war es eine Fähigkeit.",
+  "translation": "Without doubt it was an ability.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-29376-01266",
+  "cloze": "Augenblicklich ist niemand da, der den ___ versteht.",
+  "answer": "Dienst",
+  "text": "Augenblicklich ist niemand da, der den Dienst versteht.",
+  "translation": "At the moment there is no one here who understands the job.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-6651-03446",
+  "cloze": "Reinhard ___ durch die hohle Hand.",
+  "answer": "rief",
+  "text": "Reinhard rief durch die hohle Hand.",
+  "translation": "Reinhard called through his cupped hand.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-22367-00098",
+  "cloze": "Allerdings ___ auch niemand auf ihn.",
+  "answer": "achtete",
+  "text": "Allerdings achtete auch niemand auf ihn.",
+  "translation": "Admittedly, nobody paid attention to him either.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-77905-04866",
+  "cloze": "Da hütete er die ___ lange Zeit.",
+  "answer": "Schafe",
+  "text": "Da hütete er die Schafe lange Zeit.",
+  "translation": "So he tended the sheep for a long time.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-28042-00989",
+  "cloze": "Es herrschte eine große ___.",
+  "answer": "Stille",
+  "text": "Es herrschte eine große Stille.",
+  "translation": "A great silence reigned.",
+  "source": {
+   "author": "Gottfried Keller",
+   "title": "Die Leute von Seldwyla",
+   "year": 1874
+  }
+ },
+ {
+  "id": "de-77905-04782",
+  "cloze": "Der ___ ging getröstet weg, und der Hund erschien.",
+  "answer": "Esel",
+  "text": "Der Esel ging getröstet weg, und der Hund erschien.",
+  "translation": "The donkey went away comforted, and the dog appeared.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-2408-00538",
+  "cloze": "Sage was du ___, ich kann nicht länger bleiben.",
+  "answer": "willst",
+  "text": "Sage was du willst, ich kann nicht länger bleiben.",
+  "translation": "Say what you like, I can't stay any longer.",
+  "source": {
+   "author": "Johann Wolfgang von Goethe",
+   "title": "Die Leiden des jungen Werther",
+   "year": 1774
+  }
+ },
+ {
+  "id": "de-69327-04132",
+  "cloze": "Er hatte nicht die ___, irgend jemanden zu schonen.",
+  "answer": "Absicht",
+  "text": "Er hatte nicht die Absicht, irgend jemanden zu schonen.",
+  "translation": "He had no intention of sparing anyone.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-6651-03527",
+  "cloze": "Er zog ein ___ Blatt heraus.",
+  "answer": "neues",
+  "text": "Er zog ein neues Blatt heraus.",
+  "translation": "He pulled out a new sheet of paper.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-77905-04813",
+  "cloze": "Dann warf sie die Spule in den ___ und sprang selber hinein.",
+  "answer": "Brunnen",
+  "text": "Dann warf sie die Spule in den Brunnen und sprang selber hinein.",
+  "translation": "Then she threw the spool into the well and jumped in herself.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-77905-04645",
+  "cloze": "Der Junge zog die ___ raus und ließ ihn los.",
+  "answer": "Axt",
+  "text": "Der Junge zog die Axt raus und ließ ihn los.",
+  "translation": "The boy pulled out the axe and let him go.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-6651-03487",
+  "cloze": "Endlich kam der letzte Tag der Ferienzeit und der Morgen der ___.",
+  "answer": "Abreise",
+  "text": "Endlich kam der letzte Tag der Ferienzeit und der Morgen der Abreise.",
+  "translation": "At last came the last day of the holidays and the morning of departure.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-5323-02609",
+  "cloze": "Darin ändern die ___ nichts.",
+  "answer": "Zeiten",
+  "text": "Darin ändern die Zeiten nichts.",
+  "translation": "The times change nothing in that.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-35312-01546",
+  "cloze": "Ich legte alle ___ in ein Körbchen zusammen.",
+  "answer": "sorgfältig",
+  "text": "Ich legte alle sorgfältig in ein Körbchen zusammen.",
+  "translation": "I laid them all carefully together in a little basket.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-5323-02415",
+  "cloze": "Aber es ist vielleicht ___, davon abzubrechen.",
+  "answer": "besser",
+  "text": "Aber es ist vielleicht besser, davon abzubrechen.",
+  "translation": "But perhaps it's better to leave it there.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-74008-04476",
+  "cloze": "Nun wollen wir ___ zur Mutter!",
+  "answer": "heim",
+  "text": "Nun wollen wir heim zur Mutter!",
+  "translation": "Now let's go home to mother!",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-77905-04666",
+  "cloze": "Der Drechsler aber hatte schon lange darauf ___.",
+  "answer": "gewartet",
+  "text": "Der Drechsler aber hatte schon lange darauf gewartet.",
+  "translation": "But the woodturner had long been waiting for that.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-77905-04548",
+  "cloze": "Dann stärkte er ihn mit ___, bis er wieder zu sich selbst kam.",
+  "answer": "Wein",
+  "text": "Dann stärkte er ihn mit Wein, bis er wieder zu sich selbst kam.",
+  "translation": "Then he revived him with wine until he came to himself again.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-35312-01658",
+  "cloze": "Der junge Mann ___ und sah mich von oben bis unten an.",
+  "answer": "lächelte",
+  "text": "Der junge Mann lächelte und sah mich von oben bis unten an.",
+  "translation": "The young man smiled and looked me up and down.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-22367-00097",
+  "cloze": "Die Herren traten ins ___ zurück und warteten.",
+  "answer": "Zimmer",
+  "text": "Die Herren traten ins Zimmer zurück und warteten.",
+  "translation": "The gentlemen stepped back into the room and waited.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-23313-00168",
+  "cloze": "Die ___ lehrte ihn, dass dies die Liebe sei.",
+  "answer": "Erfahrung",
+  "text": "Die Erfahrung lehrte ihn, dass dies die Liebe sei.",
+  "translation": "Experience taught him that this was love.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-77905-04743",
+  "cloze": "Endlich kam ein junger ___.",
+  "answer": "Fuchs",
+  "text": "Endlich kam ein junger Fuchs.",
+  "translation": "At last a young fox came.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-29376-01280",
+  "cloze": "Er tastete in die ___, wie um jemand festzuhalten.",
+  "answer": "Luft",
+  "text": "Er tastete in die Luft, wie um jemand festzuhalten.",
+  "translation": "He groped in the air, as if to hold someone.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-77905-04627",
+  "cloze": "Doch seine ___ dauerte nicht lange.",
+  "answer": "Freiheit",
+  "text": "Doch seine Freiheit dauerte nicht lange.",
+  "translation": "But his freedom did not last long.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-5323-02410",
+  "cloze": "Effi hatte von diesem ___ wenig gehört.",
+  "answer": "Gespräch",
+  "text": "Effi hatte von diesem Gespräch wenig gehört.",
+  "translation": "Effi had heard little of this conversation.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-28042-01026",
+  "cloze": "Versprich mir, es nie zu ___!",
+  "answer": "verlassen",
+  "text": "Versprich mir, es nie zu verlassen!",
+  "translation": "Promise me never to leave it!",
+  "source": {
+   "author": "Gottfried Keller",
+   "title": "Die Leute von Seldwyla",
+   "year": 1874
+  }
+ },
+ {
+  "id": "de-23313-00184",
+  "cloze": "Er blickte aber in sich hinein, wo so viel Gram und ___ war.",
+  "answer": "Sehnsucht",
+  "text": "Er blickte aber in sich hinein, wo so viel Gram und Sehnsucht war.",
+  "translation": "But he looked inside himself, where there was so much grief and longing.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-22367-00043",
+  "cloze": "Sie haben vielleicht die letzten Aufträge, die ich geschickt habe, nicht ___.",
+  "answer": "gelesen",
+  "text": "Sie haben vielleicht die letzten Aufträge, die ich geschickt habe, nicht gelesen.",
+  "translation": "Perhaps you haven't read the last orders I sent.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-22367-00081",
+  "cloze": "Aber der Vater war nicht in der ___, solche Feinheiten zu bemerken.",
+  "answer": "Stimmung",
+  "text": "Aber der Vater war nicht in der Stimmung, solche Feinheiten zu bemerken.",
+  "translation": "But the father was not in the mood to notice such subtleties.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-77905-04598",
+  "cloze": "Er sann lange hin und her, endlich fand er einen ___.",
+  "answer": "Rat",
+  "text": "Er sann lange hin und her, endlich fand er einen Rat.",
+  "translation": "He pondered a long while, and at last he found a solution.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-5323-02352",
+  "cloze": "Glaube mir, Effi, das ist auch ein weites ___.",
+  "answer": "Feld",
+  "text": "Glaube mir, Effi, das ist auch ein weites Feld.",
+  "translation": "Believe me, Effi, that too is a wide field.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-74008-04386",
+  "cloze": "Hauke stand lächelnd ___ ihm.",
+  "answer": "neben",
+  "text": "Hauke stand lächelnd neben ihm.",
+  "translation": "Hauke stood smiling beside him.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-5323-02076",
+  "cloze": "Wie gut du zu ___ verstehst.",
+  "answer": "wählen",
+  "text": "Wie gut du zu wählen verstehst.",
+  "translation": "How well you know how to choose.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-22367-00066",
+  "cloze": "Gregor ___ darüber ganz den Kopf.",
+  "answer": "verlor",
+  "text": "Gregor verlor darüber ganz den Kopf.",
+  "translation": "Gregor completely lost his head over it.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-69327-03644",
+  "cloze": "Es ist gerade kein anderes Zimmer ___.",
+  "answer": "frei",
+  "text": "Es ist gerade kein anderes Zimmer frei.",
+  "translation": "There's no other room free just now.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-22367-00036",
+  "cloze": "Nur einen kleinen Augenblick ___!",
+  "answer": "Geduld",
+  "text": "Nur einen kleinen Augenblick Geduld!",
+  "translation": "Just a moment's patience!",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-23313-00145",
+  "cloze": "Auf welche ___ verrät er ihn denn, Tonio?",
+  "answer": "Weise",
+  "text": "Auf welche Weise verrät er ihn denn, Tonio?",
+  "translation": "In what way does he betray him, then, Tonio?",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-35312-01665",
+  "cloze": "Dann aber brach er plötzlich in ein lautes ___ aus.",
+  "answer": "Gelächter",
+  "text": "Dann aber brach er plötzlich in ein lautes Gelächter aus.",
+  "translation": "But then he suddenly burst into loud laughter.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-2408-00707",
+  "cloze": "Er kam, in einen Schiffer ___.",
+  "answer": "verkleidet",
+  "text": "Er kam, in einen Schiffer verkleidet.",
+  "translation": "He came disguised as a boatman.",
+  "source": {
+   "author": "Johann Wolfgang von Goethe",
+   "title": "Die Leiden des jungen Werther",
+   "year": 1774
+  }
+ },
+ {
+  "id": "de-77905-04905",
+  "cloze": "Da packte es der Hund, lief in eine ___ und fraß es auf.",
+  "answer": "Ecke",
+  "text": "Da packte es der Hund, lief in eine Ecke und fraß es auf.",
+  "translation": "Then the dog seized it, ran into a corner and ate it up.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-22367-00103",
+  "cloze": "Darauf fasste er die Türklinke und schloss mit einem ___ die Tür.",
+  "answer": "Krach",
+  "text": "Darauf fasste er die Türklinke und schloss mit einem Krach die Tür.",
+  "translation": "Then he grasped the door handle and shut the door with a bang.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-6651-03551",
+  "cloze": "Dann ___ er sich gewaltsam ab und ging zur Tür hinaus.",
+  "answer": "kehrte",
+  "text": "Dann kehrte er sich gewaltsam ab und ging zur Tür hinaus.",
+  "translation": "Then he turned away with an effort and went out through the door.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-69327-03668",
+  "cloze": "Es war ein ___ rotbäckiger Junge.",
+  "answer": "kleiner",
+  "text": "Es war ein kleiner rotbäckiger Junge.",
+  "translation": "He was a small, red-cheeked boy.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-69327-04098",
+  "cloze": "Er bekam aber auch keine ___ Antwort.",
+  "answer": "deutliche",
+  "text": "Er bekam aber auch keine deutliche Antwort.",
+  "translation": "But he didn't get a clear answer either.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-5323-03275",
+  "cloze": "___ du wohl, Annie, dass ich dich einmal gesehen habe?",
+  "answer": "Weißt",
+  "text": "Weißt du wohl, Annie, dass ich dich einmal gesehen habe?",
+  "translation": "Do you know, Annie, that I once saw you?",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-35312-01600",
+  "cloze": "Niemand ___ etwas von meinen Herren.",
+  "answer": "wusste",
+  "text": "Niemand wusste etwas von meinen Herren.",
+  "translation": "No one knew anything about my masters.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-29376-01290",
+  "cloze": "Er suchte Ordnung in seine ___ zu bringen, vergebens!",
+  "answer": "Gedanken",
+  "text": "Er suchte Ordnung in seine Gedanken zu bringen, vergebens!",
+  "translation": "He tried to bring order to his thoughts, in vain!",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-77905-04545",
+  "cloze": "In ihrer Not ging sie zu ihrer ___ und fragte sie um Rat.",
+  "answer": "Nachbarin",
+  "text": "In ihrer Not ging sie zu ihrer Nachbarin und fragte sie um Rat.",
+  "translation": "In her distress she went to her neighbour and asked her for advice.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-23313-00129",
+  "cloze": "Tonio ___, und seine Augen trübten sich.",
+  "answer": "verstummte",
+  "text": "Tonio verstummte, und seine Augen trübten sich.",
+  "translation": "Tonio fell silent, and his eyes clouded over.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-77905-04759",
+  "cloze": "Frau Königin, Ihr seid die ___ im Land.",
+  "answer": "Schönste",
+  "text": "Frau Königin, Ihr seid die Schönste im Land.",
+  "translation": "Lady Queen, you are the fairest in the land.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-77905-04845",
+  "cloze": "Damit ___ der König, ihn auf immer loszuwerden.",
+  "answer": "hoffte",
+  "text": "Damit hoffte der König, ihn auf immer loszuwerden.",
+  "translation": "With that, the king hoped to be rid of him forever.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-22367-00073",
+  "cloze": "Der ___ Gregors, die Mutter zu sehen, ging bald in Erfüllung.",
+  "answer": "Wunsch",
+  "text": "Der Wunsch Gregors, die Mutter zu sehen, ging bald in Erfüllung.",
+  "translation": "Gregor's wish to see his mother was soon fulfilled.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-5323-02366",
+  "cloze": "Wie bist du nur eigentlich ___ mich fertig geworden?",
+  "answer": "ohne",
+  "text": "Wie bist du nur eigentlich ohne mich fertig geworden?",
+  "translation": "How did you ever manage without me?",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-69327-03687",
+  "cloze": "Ich wurde in ein ___ Zimmer vor den Aufseher geführt.",
+  "answer": "drittes",
+  "text": "Ich wurde in ein drittes Zimmer vor den Aufseher geführt.",
+  "translation": "I was led into a third room, before the supervisor.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-74008-04345",
+  "cloze": "Sie hörte die Worte noch, ___ sie die Stalltür wieder geschlossen hatte.",
+  "answer": "bevor",
+  "text": "Sie hörte die Worte noch, bevor sie die Stalltür wieder geschlossen hatte.",
+  "translation": "She still heard the words before she had closed the stable door again.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-29376-01186",
+  "cloze": "Nach und nach überkam ihn eine seltsame ___.",
+  "answer": "Unruhe",
+  "text": "Nach und nach überkam ihn eine seltsame Unruhe.",
+  "translation": "Little by little a strange restlessness came over him.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-77905-04589",
+  "cloze": "Der Esel, als der ___, näherte sich dem Fenster und schaute hinein.",
+  "answer": "größte",
+  "text": "Der Esel, als der größte, näherte sich dem Fenster und schaute hinein.",
+  "translation": "The donkey, being the biggest, approached the window and looked in.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-22367-00049",
+  "cloze": "Im Nebenzimmer war es ___ ganz still geworden.",
+  "answer": "inzwischen",
+  "text": "Im Nebenzimmer war es inzwischen ganz still geworden.",
+  "translation": "Meanwhile it had become quite silent in the next room.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-22367-00009",
+  "cloze": "Sollte der ___ nicht geläutet haben?",
+  "answer": "Wecker",
+  "text": "Sollte der Wecker nicht geläutet haben?",
+  "translation": "Could the alarm clock not have rung?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-22367-00118",
+  "cloze": "Er bekreuzte sich, und die drei Frauen folgten seinem ___.",
+  "answer": "Beispiel",
+  "text": "Er bekreuzte sich, und die drei Frauen folgten seinem Beispiel.",
+  "translation": "He crossed himself, and the three women followed his example.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-29376-01137",
+  "cloze": "Ihr wollt also schon wieder ___?",
+  "answer": "heiraten",
+  "text": "Ihr wollt also schon wieder heiraten?",
+  "translation": "So you want to marry again already?",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-77905-04693",
+  "cloze": "Da blickte er auf ihren Fuß und sah, wie das ___ herausquoll.",
+  "answer": "Blut",
+  "text": "Da blickte er auf ihren Fuß und sah, wie das Blut herausquoll.",
+  "translation": "Then he looked at her foot and saw the blood welling out.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-22367-00088",
+  "cloze": "Gregor aß nun ___ gar nichts mehr.",
+  "answer": "fast",
+  "text": "Gregor aß nun fast gar nichts mehr.",
+  "translation": "Gregor now ate almost nothing at all.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-74008-04452",
+  "cloze": "Ein ärgerliches ___ ging durch die Gesellschaft.",
+  "answer": "Lachen",
+  "text": "Ein ärgerliches Lachen ging durch die Gesellschaft.",
+  "translation": "An annoyed laugh went through the company.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-2407-00456",
+  "cloze": "Gewiss, Albert ist der ___ Mensch unter dem Himmel.",
+  "answer": "beste",
+  "text": "Gewiss, Albert ist der beste Mensch unter dem Himmel.",
+  "translation": "Certainly, Albert is the best person under heaven.",
+  "source": {
+   "author": "Johann Wolfgang von Goethe",
+   "title": "Die Leiden des jungen Werther",
+   "year": 1774
+  }
+ },
+ {
+  "id": "de-69327-04262",
+  "cloze": "Nicht ___ Türhüter hätte so gehandelt.",
+  "answer": "jeder",
+  "text": "Nicht jeder Türhüter hätte so gehandelt.",
+  "translation": "Not every doorkeeper would have acted this way.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-23313-00356",
+  "cloze": "Das blasse ___ fiel hin.",
+  "answer": "Mädchen",
+  "text": "Das blasse Mädchen fiel hin.",
+  "translation": "The pale girl fell down.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-6651-03443",
+  "cloze": "Reinhard hob Elisabeth auf seine Arme und ___ sie hinüber.",
+  "answer": "trug",
+  "text": "Reinhard hob Elisabeth auf seine Arme und trug sie hinüber.",
+  "translation": "Reinhard lifted Elisabeth in his arms and carried her across.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-23313-00309",
+  "cloze": "Ich bitte sehr, die kleine ___ zu entschuldigen, mein Herr.",
+  "answer": "Störung",
+  "text": "Ich bitte sehr, die kleine Störung zu entschuldigen, mein Herr.",
+  "translation": "I beg you to excuse the small disturbance, sir.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-69327-03838",
+  "cloze": "Hast du übrigens die richtige ___?",
+  "answer": "Pflege",
+  "text": "Hast du übrigens die richtige Pflege?",
+  "translation": "By the way, are you getting proper care?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-6651-03454",
+  "cloze": "Reinhard hob sein Glas an den ___.",
+  "answer": "Mund",
+  "text": "Reinhard hob sein Glas an den Mund.",
+  "translation": "Reinhard raised his glass to his mouth.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-5323-01753",
+  "cloze": "Wir bleiben doch gute ___.",
+  "answer": "Freunde",
+  "text": "Wir bleiben doch gute Freunde.",
+  "translation": "We'll stay good friends, won't we.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-5323-03313",
+  "cloze": "Es ist sehr ___, sich ohne Gesellschaft zu behelfen.",
+  "answer": "schwer",
+  "text": "Es ist sehr schwer, sich ohne Gesellschaft zu behelfen.",
+  "translation": "It is very hard to manage without company.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-35312-01693",
+  "cloze": "Nun fiel mir erst ein, dass es noch nicht ___ geschlagen hatte.",
+  "answer": "elf",
+  "text": "Nun fiel mir erst ein, dass es noch nicht elf geschlagen hatte.",
+  "translation": "Only now did it occur to me that it had not yet struck eleven.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-35312-01586",
+  "cloze": "Ich sprang geschwind auf, denn es war schon ___ Tag geworden.",
+  "answer": "heller",
+  "text": "Ich sprang geschwind auf, denn es war schon heller Tag geworden.",
+  "translation": "I jumped up quickly, for it had already become broad daylight.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-29376-01168",
+  "cloze": "Einen Augenblick drohte es ihn zu ___.",
+  "answer": "überwältigen",
+  "text": "Einen Augenblick drohte es ihn zu überwältigen.",
+  "translation": "For a moment it threatened to overwhelm him.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-28042-00798",
+  "cloze": "Also das sollte ein polnischer ___ sein?",
+  "answer": "Graf",
+  "text": "Also das sollte ein polnischer Graf sein?",
+  "translation": "So that was supposed to be a Polish count?",
+  "source": {
+   "author": "Gottfried Keller",
+   "title": "Die Leute von Seldwyla",
+   "year": 1874
+  }
+ },
+ {
+  "id": "de-2408-00537",
+  "cloze": "Manchmal kommen sie mir ehrlich vor, und ich kann ihnen doch nicht ___.",
+  "answer": "trauen",
+  "text": "Manchmal kommen sie mir ehrlich vor, und ich kann ihnen doch nicht trauen.",
+  "translation": "Sometimes they seem honest to me, and yet I can't trust them.",
+  "source": {
+   "author": "Johann Wolfgang von Goethe",
+   "title": "Die Leiden des jungen Werther",
+   "year": 1774
+  }
+ },
+ {
+  "id": "de-5323-02066",
+  "cloze": "Nur einen ___ könntest du mir geben.",
+  "answer": "Kuss",
+  "text": "Nur einen Kuss könntest du mir geben.",
+  "translation": "You could at least give me a kiss.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-74008-04493",
+  "cloze": "Die Karten lagen unberührt auf dem ___.",
+  "answer": "Tisch",
+  "text": "Die Karten lagen unberührt auf dem Tisch.",
+  "translation": "The cards lay untouched on the table.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-77905-04945",
+  "cloze": "Und danach setzten sie sich auf ein ___, und fuhren übers Meer.",
+  "answer": "Schiff",
+  "text": "Und danach setzten sie sich auf ein Schiff, und fuhren übers Meer.",
+  "translation": "And after that they boarded a ship and sailed across the sea.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-35312-01523",
+  "cloze": "Seitwärts durch die Bäume sah ich die ___ von Wien.",
+  "answer": "Türme",
+  "text": "Seitwärts durch die Bäume sah ich die Türme von Wien.",
+  "translation": "Sideways through the trees I saw the towers of Vienna.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-77905-04794",
+  "cloze": "Ich mache dich zu einem berühmten ___.",
+  "answer": "Arzt",
+  "text": "Ich mache dich zu einem berühmten Arzt.",
+  "translation": "I will make you a famous doctor.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-6651-03520",
+  "cloze": "Der Weg führte hart unter dem ___ vorbei.",
+  "answer": "Garten",
+  "text": "Der Weg führte hart unter dem Garten vorbei.",
+  "translation": "The path led right past below the garden.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-5323-02497",
+  "cloze": "Ich habe mich amüsiert über das ___ Stück.",
+  "answer": "hübsche",
+  "text": "Ich habe mich amüsiert über das hübsche Stück.",
+  "translation": "I enjoyed the pretty play.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-6651-03441",
+  "cloze": "Wo bleiben denn aber deine ___?",
+  "answer": "Erdbeeren",
+  "text": "Wo bleiben denn aber deine Erdbeeren?",
+  "translation": "But where are your strawberries?",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-69327-03651",
+  "cloze": "Er war fest ___, wegzugehen.",
+  "answer": "entschlossen",
+  "text": "Er war fest entschlossen, wegzugehen.",
+  "translation": "He was firmly resolved to leave.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-77905-04661",
+  "cloze": "Nun, mein lieber Sohn, was hast du ___?",
+  "answer": "gelernt",
+  "text": "Nun, mein lieber Sohn, was hast du gelernt?",
+  "translation": "Well, my dear son, what have you learned?",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-74008-04443",
+  "cloze": "Der Kerl war ein Narr oder ein Schuft, der es ___ hatte!",
+  "answer": "gestohlen",
+  "text": "Der Kerl war ein Narr oder ein Schuft, der es gestohlen hatte!",
+  "translation": "The fellow was a fool or a scoundrel who had stolen it!",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-6651-03492",
+  "cloze": "Wenn ich nach zwei ___ wieder da bin, dann sollst du es erfahren.",
+  "answer": "Jahren",
+  "text": "Wenn ich nach zwei Jahren wieder da bin, dann sollst du es erfahren.",
+  "translation": "When I am back in two years, then you shall learn it.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-77905-04705",
+  "cloze": "Die Kinder waren aber noch ___ gewesen und hatten das Gespräch mit angehört.",
+  "answer": "wach",
+  "text": "Die Kinder waren aber noch wach gewesen und hatten das Gespräch mit angehört.",
+  "translation": "But the children had still been awake and had listened in on the conversation.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-5323-02421",
+  "cloze": "Aber er hatte eine Vorliebe, uns Spukgeschichten zu ___.",
+  "answer": "erzählen",
+  "text": "Aber er hatte eine Vorliebe, uns Spukgeschichten zu erzählen.",
+  "translation": "But he had a fondness for telling us ghost stories.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-35312-01692",
+  "cloze": "Von der Stadt her schlugen die Uhren ___.",
+  "answer": "zehn",
+  "text": "Von der Stadt her schlugen die Uhren zehn.",
+  "translation": "From the town the clocks struck ten.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-77905-04968",
+  "cloze": "Ein ___, der sich vor nichts fürchtet, kümmert sich auch um nichts.",
+  "answer": "Soldat",
+  "text": "Ein Soldat, der sich vor nichts fürchtet, kümmert sich auch um nichts.",
+  "translation": "A soldier who fears nothing cares about nothing either.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-29376-01410",
+  "cloze": "Es gab andere, wichtigere ___ für ihn zu tun.",
+  "answer": "Dinge",
+  "text": "Es gab andere, wichtigere Dinge für ihn zu tun.",
+  "translation": "There were other, more important things for him to do.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-22367-00067",
+  "cloze": "Die Tür wurde noch mit dem Stock zugeschlagen, dann war es ___ still.",
+  "answer": "endlich",
+  "text": "Die Tür wurde noch mit dem Stock zugeschlagen, dann war es endlich still.",
+  "translation": "The door was slammed shut with the stick, then at last it was quiet.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-69327-03745",
+  "cloze": "Sie machten einen sehr bescheidenen ___.",
+  "answer": "Eindruck",
+  "text": "Sie machten einen sehr bescheidenen Eindruck.",
+  "translation": "They made a very modest impression.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-5323-02055",
+  "cloze": "So war Effis ___ Tag in Kessin gewesen.",
+  "answer": "erster",
+  "text": "So war Effis erster Tag in Kessin gewesen.",
+  "translation": "Such had been Effi's first day in Kessin.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-69327-03830",
+  "cloze": "Und hast du jetzt einen ___ dafür, was ich zunächst machen soll?",
+  "answer": "Vorschlag",
+  "text": "Und hast du jetzt einen Vorschlag dafür, was ich zunächst machen soll?",
+  "translation": "And do you now have a suggestion for what I should do first?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-77905-04643",
+  "cloze": "Wie ist dir's ___ gegangen?",
+  "answer": "diesmal",
+  "text": "Wie ist dir's diesmal gegangen?",
+  "translation": "How did it go for you this time?",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-35312-01629",
+  "cloze": "Ich löschte mein Licht aus und ___ mich ans Fenster.",
+  "answer": "stellte",
+  "text": "Ich löschte mein Licht aus und stellte mich ans Fenster.",
+  "translation": "I put out my light and stood at the window.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-77905-04909",
+  "cloze": "Da lief der ganze Wein heraus, ohne dass es der Fuhrmann ___.",
+  "answer": "merkte",
+  "text": "Da lief der ganze Wein heraus, ohne dass es der Fuhrmann merkte.",
+  "translation": "Then all the wine ran out without the carter noticing.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-6651-03448",
+  "cloze": "Setz dich dort in den ___ zwischen die Kräuter.",
+  "answer": "Schatten",
+  "text": "Setz dich dort in den Schatten zwischen die Kräuter.",
+  "translation": "Sit down there in the shade among the herbs.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-69327-03690",
+  "cloze": "Unten unterhielten sich die Leute ___, aber lebhaft.",
+  "answer": "leise",
+  "text": "Unten unterhielten sich die Leute leise, aber lebhaft.",
+  "translation": "Downstairs the people were talking quietly but animatedly.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-22367-00002",
+  "cloze": "Er glitt wieder in seine frühere Lage ___.",
+  "answer": "zurück",
+  "text": "Er glitt wieder in seine frühere Lage zurück.",
+  "translation": "He slid back into his previous position.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-35312-01625",
+  "cloze": "Ich zog meine ___ hervor und spielte und aß und trank dazwischen.",
+  "answer": "Geige",
+  "text": "Ich zog meine Geige hervor und spielte und aß und trank dazwischen.",
+  "translation": "I pulled out my fiddle and played, and ate and drank in between.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-2408-00487",
+  "cloze": "___ sind wir hier angelangt.",
+  "answer": "Gestern",
+  "text": "Gestern sind wir hier angelangt.",
+  "translation": "We arrived here yesterday.",
+  "source": {
+   "author": "Johann Wolfgang von Goethe",
+   "title": "Die Leiden des jungen Werther",
+   "year": 1774
+  }
+ },
+ {
+  "id": "de-6651-03470",
+  "cloze": "Als es Ostern geworden war, reiste Reinhard in die ___.",
+  "answer": "Heimat",
+  "text": "Als es Ostern geworden war, reiste Reinhard in die Heimat.",
+  "translation": "When Easter had come, Reinhard travelled home.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Immensee",
+   "year": 1849
+  }
+ },
+ {
+  "id": "de-77905-04800",
+  "cloze": "Und beim drittenmal erhob sich die Königstochter lebendig, ___ und schön.",
+  "answer": "gesund",
+  "text": "Und beim drittenmal erhob sich die Königstochter lebendig, gesund und schön.",
+  "translation": "And the third time the king's daughter rose up alive, healthy and beautiful.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-29376-01474",
+  "cloze": "Seine ___ waren wie zerschlagen.",
+  "answer": "Glieder",
+  "text": "Seine Glieder waren wie zerschlagen.",
+  "translation": "His limbs felt as if they had been battered.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-77905-04935",
+  "cloze": "Hans ___, was vorgefallen war.",
+  "answer": "erzählte",
+  "text": "Hans erzählte, was vorgefallen war.",
+  "translation": "Hans told what had happened.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-23313-00210",
+  "cloze": "Ja, wovon ___ wir eben?",
+  "answer": "sprachen",
+  "text": "Ja, wovon sprachen wir eben?",
+  "translation": "Yes, what were we just talking about?",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-69327-03855",
+  "cloze": "Machen Sie doch bei nächster ___ das Geständnis.",
+  "answer": "Gelegenheit",
+  "text": "Machen Sie doch bei nächster Gelegenheit das Geständnis.",
+  "translation": "Do make the confession at the next opportunity.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-2407-00414",
+  "cloze": "Wir kamen gegen ___ dahin.",
+  "answer": "vier",
+  "text": "Wir kamen gegen vier dahin.",
+  "translation": "We arrived there around four.",
+  "source": {
+   "author": "Johann Wolfgang von Goethe",
+   "title": "Die Leiden des jungen Werther",
+   "year": 1774
+  }
+ },
+ {
+  "id": "de-77905-04771",
+  "cloze": "Die beiden blieben voll Verwunderung stehen und sahen dem ___ zu.",
+  "answer": "Tanz",
+  "text": "Die beiden blieben voll Verwunderung stehen und sahen dem Tanz zu.",
+  "translation": "The two stopped in astonishment and watched the dance.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-69327-04012",
+  "cloze": "Dann müssten Sie also einmal ___.",
+  "answer": "mitkommen",
+  "text": "Dann müssten Sie also einmal mitkommen.",
+  "translation": "Then you would have to come along sometime.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-5323-02503",
+  "cloze": "Wie ___ du bist, Geert.",
+  "answer": "galant",
+  "text": "Wie galant du bist, Geert.",
+  "translation": "How gallant you are, Geert.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-29376-01211",
+  "cloze": "Es war, als fiele ein Blutregen vom ___.",
+  "answer": "Himmel",
+  "text": "Es war, als fiele ein Blutregen vom Himmel.",
+  "translation": "It was as if a rain of blood were falling from the sky.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-35312-01602",
+  "cloze": "Wir fuhren nun über ___ und Tal Tag und Nacht immerfort.",
+  "answer": "Berg",
+  "text": "Wir fuhren nun über Berg und Tal Tag und Nacht immerfort.",
+  "translation": "Now we drove on over hill and dale, day and night, without stopping.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-77905-04541",
+  "cloze": "Sie laufen so herum, haben nichts am Leib und müssen ___.",
+  "answer": "frieren",
+  "text": "Sie laufen so herum, haben nichts am Leib und müssen frieren.",
+  "translation": "They run around like that with nothing on and must be freezing.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-69327-03610",
+  "cloze": "Sie sind zwar verhaftet, aber nicht so wie ein ___ verhaftet wird.",
+  "answer": "Dieb",
+  "text": "Sie sind zwar verhaftet, aber nicht so wie ein Dieb verhaftet wird.",
+  "translation": "You are under arrest, but not the way a thief is arrested.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-77905-04740",
+  "cloze": "Die Jungfer ___ ging hinab und schickte den Freier fort.",
+  "answer": "Katze",
+  "text": "Die Jungfer Katze ging hinab und schickte den Freier fort.",
+  "translation": "Miss Cat went down and sent the suitor away.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-77905-04713",
+  "cloze": "Da hatten alle ___ ein Ende, und sie lebten in lauter Freude zusammen.",
+  "answer": "Sorgen",
+  "text": "Da hatten alle Sorgen ein Ende, und sie lebten in lauter Freude zusammen.",
+  "translation": "Then all their worries were over, and they lived together in pure joy.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-2408-00511",
+  "cloze": "Ich weiß nicht recht, warum ich aufstehe, warum ich ___ gehe.",
+  "answer": "schlafen",
+  "text": "Ich weiß nicht recht, warum ich aufstehe, warum ich schlafen gehe.",
+  "translation": "I don't quite know why I get up, why I go to sleep.",
+  "source": {
+   "author": "Johann Wolfgang von Goethe",
+   "title": "Die Leiden des jungen Werther",
+   "year": 1774
+  }
+ },
+ {
+  "id": "de-22367-00030",
+  "cloze": "Das waren doch vorläufig wohl ___ Sorgen.",
+  "answer": "unnötige",
+  "text": "Das waren doch vorläufig wohl unnötige Sorgen.",
+  "translation": "Those were surely unnecessary worries for now.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-69327-03744",
+  "cloze": "Es waren, wahrscheinlich weil ___ war, nur wenig Leute auf dem Gang.",
+  "answer": "Sonntag",
+  "text": "Es waren, wahrscheinlich weil Sonntag war, nur wenig Leute auf dem Gang.",
+  "translation": "There were only a few people in the corridor, probably because it was Sunday.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-77905-04788",
+  "cloze": "Gott war gnädig und schenkte ihm zehn ___.",
+  "answer": "Jahre",
+  "text": "Gott war gnädig und schenkte ihm zehn Jahre.",
+  "translation": "God was merciful and granted him ten years.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-22367-00086",
+  "cloze": "Die ___ und Tage verbrachte Gregor fast ganz ohne Schlaf.",
+  "answer": "Nächte",
+  "text": "Die Nächte und Tage verbrachte Gregor fast ganz ohne Schlaf.",
+  "translation": "Gregor spent the nights and days almost entirely without sleep.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-29376-01330",
+  "cloze": "___ am Abend war er in Zürich angelangt.",
+  "answer": "Spät",
+  "text": "Spät am Abend war er in Zürich angelangt.",
+  "translation": "Late in the evening he had arrived in Zurich.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-2407-00469",
+  "cloze": "Wenn wir uns selbst fehlen, ___ uns doch alles.",
+  "answer": "fehlt",
+  "text": "Wenn wir uns selbst fehlen, fehlt uns doch alles.",
+  "translation": "If we lack ourselves, we lack everything.",
+  "source": {
+   "author": "Johann Wolfgang von Goethe",
+   "title": "Die Leiden des jungen Werther",
+   "year": 1774
+  }
+ },
+ {
+  "id": "de-22367-00053",
+  "cloze": "Werden Sie alles wahrheitsgetreu ___?",
+  "answer": "berichten",
+  "text": "Werden Sie alles wahrheitsgetreu berichten?",
+  "translation": "Will you report everything truthfully?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Die Verwandlung",
+   "year": 1915
+  }
+ },
+ {
+  "id": "de-77905-04696",
+  "cloze": "Da wendete er sein Pferd und brachte die falsche ___ wieder nach Haus.",
+  "answer": "Braut",
+  "text": "Da wendete er sein Pferd und brachte die falsche Braut wieder nach Haus.",
+  "translation": "Then he turned his horse and brought the false bride back home.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-23313-00318",
+  "cloze": "So beschlossen sie, ein wenig zu schlafen, und wünschten einander gute ___.",
+  "answer": "Nacht",
+  "text": "So beschlossen sie, ein wenig zu schlafen, und wünschten einander gute Nacht.",
+  "translation": "So they decided to sleep a little, and wished each other good night.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-69327-03659",
+  "cloze": "Ein Mann stand ___ und leitete die Arbeit durch ein paar Zurufe.",
+  "answer": "unten",
+  "text": "Ein Mann stand unten und leitete die Arbeit durch ein paar Zurufe.",
+  "translation": "A man stood below and directed the work with a few shouts.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-2408-00654",
+  "cloze": "Der Wind saust im ___.",
+  "answer": "Gebirge",
+  "text": "Der Wind saust im Gebirge.",
+  "translation": "The wind roars in the mountains.",
+  "source": {
+   "author": "Johann Wolfgang von Goethe",
+   "title": "Die Leiden des jungen Werther",
+   "year": 1774
+  }
+ },
+ {
+  "id": "de-5323-01992",
+  "cloze": "Sie fühlte jetzt, wie seine ___ herüberströmte.",
+  "answer": "Wärme",
+  "text": "Sie fühlte jetzt, wie seine Wärme herüberströmte.",
+  "translation": "She felt now how his warmth flowed across to her.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-69327-04147",
+  "cloze": "Die Tür hatte er für einen möglichen ___ offengelassen.",
+  "answer": "Rückzug",
+  "text": "Die Tür hatte er für einen möglichen Rückzug offengelassen.",
+  "translation": "He had left the door open for a possible retreat.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-69327-04207",
+  "cloze": "Er schien aufmerksam einen Vorgang zu ___, der sich vor ihm abspielte.",
+  "answer": "beobachten",
+  "text": "Er schien aufmerksam einen Vorgang zu beobachten, der sich vor ihm abspielte.",
+  "translation": "He seemed to be attentively watching something happening in front of him.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-23313-00163",
+  "cloze": "Dann nahm er seine Mappe unter den ___ und lief durch den Vorgarten.",
+  "answer": "Arm",
+  "text": "Dann nahm er seine Mappe unter den Arm und lief durch den Vorgarten.",
+  "translation": "Then he took his satchel under his arm and ran through the front garden.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-35312-01547",
+  "cloze": "Es war ein schöner ___ Abend und kein Wölkchen am Himmel.",
+  "answer": "stiller",
+  "text": "Es war ein schöner stiller Abend und kein Wölkchen am Himmel.",
+  "translation": "It was a beautiful, still evening, with not a cloud in the sky.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-69327-03769",
+  "cloze": "Warum ist denn heute ein solcher ___ im Vorzimmer?",
+  "answer": "Lärm",
+  "text": "Warum ist denn heute ein solcher Lärm im Vorzimmer?",
+  "translation": "Why is there such a noise in the hall today?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-77905-04829",
+  "cloze": "Als sie die ___ Kost verzehrt hatten, legten sie sich zu Bett.",
+  "answer": "schmale",
+  "text": "Als sie die schmale Kost verzehrt hatten, legten sie sich zu Bett.",
+  "translation": "When they had eaten their meagre meal, they went to bed.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-28042-00928",
+  "cloze": "Die Familie saß schon am Tische und die ___ wurde eben weggetragen.",
+  "answer": "Suppe",
+  "text": "Die Familie saß schon am Tische und die Suppe wurde eben weggetragen.",
+  "translation": "The family was already at table, and the soup was just being carried away.",
+  "source": {
+   "author": "Gottfried Keller",
+   "title": "Die Leute von Seldwyla",
+   "year": 1874
+  }
+ },
+ {
+  "id": "de-69327-04071",
+  "cloze": "Vor allem will ich doch meinen Prozess nicht ___, das ist doch selbstverständlich.",
+  "answer": "verlieren",
+  "text": "Vor allem will ich doch meinen Prozess nicht verlieren, das ist doch selbstverständlich.",
+  "translation": "Above all, I don't want to lose my trial, that goes without saying.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-77905-04665",
+  "cloze": "Was hast du von deiner Wanderschaft ___?",
+  "answer": "mitgebracht",
+  "text": "Was hast du von deiner Wanderschaft mitgebracht?",
+  "translation": "What have you brought back from your travels?",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-28042-00807",
+  "cloze": "Das Schicksal machte ihn mit jeder ___ größer.",
+  "answer": "Minute",
+  "text": "Das Schicksal machte ihn mit jeder Minute größer.",
+  "translation": "Fate made him greater with every minute.",
+  "source": {
+   "author": "Gottfried Keller",
+   "title": "Die Leute von Seldwyla",
+   "year": 1874
+  }
+ },
+ {
+  "id": "de-77905-04799",
+  "cloze": "Darauf gingen sie in das königliche Schloss, wo alles in großer ___ war.",
+  "answer": "Trauer",
+  "text": "Darauf gingen sie in das königliche Schloss, wo alles in großer Trauer war.",
+  "translation": "Then they went into the royal castle, where everything was in deep mourning.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-23313-00212",
+  "cloze": "Man arbeitet schlecht im ___, gewiss, und warum?",
+  "answer": "Frühling",
+  "text": "Man arbeitet schlecht im Frühling, gewiss, und warum?",
+  "translation": "One works badly in spring, certainly, and why?",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-69327-04223",
+  "cloze": "Ich bin hierhergekommen, um einem Italiener den Dom zu ___.",
+  "answer": "zeigen",
+  "text": "Ich bin hierhergekommen, um einem Italiener den Dom zu zeigen.",
+  "translation": "I came here to show an Italian the cathedral.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-77905-04923",
+  "cloze": "Der ___ lief eilig fort und war bald hinter den Bäumen verschwunden.",
+  "answer": "Bär",
+  "text": "Der Bär lief eilig fort und war bald hinter den Bäumen verschwunden.",
+  "translation": "The bear ran hurriedly away and had soon disappeared behind the trees.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-69327-03630",
+  "cloze": "Das ___ hat eine eigentümliche Anziehungskraft, nicht?",
+  "answer": "Gericht",
+  "text": "Das Gericht hat eine eigentümliche Anziehungskraft, nicht?",
+  "translation": "The court has a peculiar attraction, doesn't it?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-35312-01682",
+  "cloze": "Mir ___ das Herz, ich wäre am liebsten gleich nachgesprungen.",
+  "answer": "klopfte",
+  "text": "Mir klopfte das Herz, ich wäre am liebsten gleich nachgesprungen.",
+  "translation": "My heart was pounding; I would have liked to jump after her right away.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-23313-00330",
+  "cloze": "Und ___, stürmische Tage kamen.",
+  "answer": "graue",
+  "text": "Und graue, stürmische Tage kamen.",
+  "translation": "And grey, stormy days came.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-77905-04774",
+  "cloze": "Da erkannte er die Strafe seiner Habgier und begann ___ zu weinen.",
+  "answer": "laut",
+  "text": "Da erkannte er die Strafe seiner Habgier und begann laut zu weinen.",
+  "translation": "Then he recognised the punishment for his greed and began to cry loudly.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-69327-03861",
+  "cloze": "Wenn sie keine sonstigen Vorteile hat, verliere ich nicht den ___.",
+  "answer": "Mut",
+  "text": "Wenn sie keine sonstigen Vorteile hat, verliere ich nicht den Mut.",
+  "translation": "If it has no other advantages, I won't lose heart.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-77905-04952",
+  "cloze": "Sie wurden also ins ___ gebracht und sollten gerichtet werden.",
+  "answer": "Gefängnis",
+  "text": "Sie wurden also ins Gefängnis gebracht und sollten gerichtet werden.",
+  "translation": "So they were taken to prison and were to be put on trial.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-23313-00194",
+  "cloze": "Ich will treu sein und dich ___, Ingeborg, solange ich lebe!",
+  "answer": "lieben",
+  "text": "Ich will treu sein und dich lieben, Ingeborg, solange ich lebe!",
+  "translation": "I will be faithful and love you, Ingeborg, as long as I live!",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ },
+ {
+  "id": "de-77905-04616",
+  "cloze": "Sie sprangen geschwind hinein und wollten den Dieb ___.",
+  "answer": "greifen",
+  "text": "Sie sprangen geschwind hinein und wollten den Dieb greifen.",
+  "translation": "They sprang in quickly and tried to seize the thief.",
+  "source": {
+   "author": "Brüder Grimm",
+   "title": "Kinder- und Hausmärchen",
+   "year": 1812
+  }
+ },
+ {
+  "id": "de-69327-04047",
+  "cloze": "Mittag war schon ___ vorüber, als K. vor der Bank ankam.",
+  "answer": "längst",
+  "text": "Mittag war schon längst vorüber, als K. vor der Bank ankam.",
+  "translation": "Midday was long past when K. arrived in front of the bank.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-5323-01933",
+  "cloze": "Da bleiben wir fünf Tage, ja vielleicht eine ganze ___.",
+  "answer": "Woche",
+  "text": "Da bleiben wir fünf Tage, ja vielleicht eine ganze Woche.",
+  "translation": "We'll stay there five days, perhaps even a whole week.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-69327-03572",
+  "cloze": "Ihre Sicherheit ist nur durch ihre Dummheit ___.",
+  "answer": "möglich",
+  "text": "Ihre Sicherheit ist nur durch ihre Dummheit möglich.",
+  "translation": "Their confidence is only possible through their stupidity.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-69327-03828",
+  "cloze": "Josef, nimm dich doch ___.",
+  "answer": "zusammen",
+  "text": "Josef, nimm dich doch zusammen.",
+  "translation": "Josef, do pull yourself together.",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-35312-01572",
+  "cloze": "Endlich hörte ich von ferne Hunde ___.",
+  "answer": "bellen",
+  "text": "Endlich hörte ich von ferne Hunde bellen.",
+  "translation": "At last I heard dogs barking in the distance.",
+  "source": {
+   "author": "Joseph von Eichendorff",
+   "title": "Aus dem Leben eines Taugenichts",
+   "year": 1826
+  }
+ },
+ {
+  "id": "de-74008-04369",
+  "cloze": "Wie geht's mit deinen ___?",
+  "answer": "Enten",
+  "text": "Wie geht's mit deinen Enten?",
+  "translation": "How are things with your ducks?",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-28042-01111",
+  "cloze": "Sonst lebten sie im tiefsten ___ mit aller Welt.",
+  "answer": "Frieden",
+  "text": "Sonst lebten sie im tiefsten Frieden mit aller Welt.",
+  "translation": "Otherwise they lived in the deepest peace with all the world.",
+  "source": {
+   "author": "Gottfried Keller",
+   "title": "Die Leute von Seldwyla",
+   "year": 1874
+  }
+ },
+ {
+  "id": "de-5323-03102",
+  "cloze": "Am Abend desselben ___ traf Innstetten wieder in Berlin ein.",
+  "answer": "Tages",
+  "text": "Am Abend desselben Tages traf Innstetten wieder in Berlin ein.",
+  "translation": "On the evening of the same day, Innstetten arrived back in Berlin.",
+  "source": {
+   "author": "Theodor Fontane",
+   "title": "Effi Briest",
+   "year": 1895
+  }
+ },
+ {
+  "id": "de-29376-01331",
+  "cloze": "Er schlief unruhig wenige ___.",
+  "answer": "Stunden",
+  "text": "Er schlief unruhig wenige Stunden.",
+  "translation": "He slept restlessly for a few hours.",
+  "source": {
+   "author": "Gerhart Hauptmann",
+   "title": "Bahnwärter Thiel",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-69327-04214",
+  "cloze": "Sollte wirklich eine Predigt ___?",
+  "answer": "beginnen",
+  "text": "Sollte wirklich eine Predigt beginnen?",
+  "translation": "Was a sermon really about to begin?",
+  "source": {
+   "author": "Franz Kafka",
+   "title": "Der Prozess",
+   "year": 1925
+  }
+ },
+ {
+  "id": "de-74008-04381",
+  "cloze": "Ein paar ___ rannen über die Wangen des Mädchens.",
+  "answer": "Tränen",
+  "text": "Ein paar Tränen rannen über die Wangen des Mädchens.",
+  "translation": "A few tears ran down the girl's cheeks.",
+  "source": {
+   "author": "Theodor Storm",
+   "title": "Der Schimmelreiter",
+   "year": 1888
+  }
+ },
+ {
+  "id": "de-23313-00336",
+  "cloze": "Hierauf wurde ___ Zeit nichts mehr gesprochen.",
+  "answer": "längere",
+  "text": "Hierauf wurde längere Zeit nichts mehr gesprochen.",
+  "translation": "After this, nothing more was said for quite a while.",
+  "source": {
+   "author": "Thomas Mann",
+   "title": "Tonio Kröger",
+   "year": 1903
+  }
+ }
+]

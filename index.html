@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sentences</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">Sentences</div>
+  <div class="controls">
+    <select id="lang" aria-label="Language"></select>
+    <button id="settings-btn" class="icon-btn" aria-label="Settings" title="Settings">&#9881;</button>
+  </div>
+</header>
+
+<main>
+  <div id="stats" class="stats"></div>
+
+  <section id="card" class="card" hidden>
+    <div id="source" class="source"></div>
+    <div id="pre-translation" class="translation pre" hidden></div>
+    <form id="answer-form" autocomplete="off">
+      <p id="sentence" class="sentence"></p>
+    </form>
+    <div id="feedback" class="feedback" hidden>
+      <div id="verdict" class="verdict"></div>
+      <div id="translation" class="translation"></div>
+      <div class="feedback-actions">
+        <button type="button" id="speak-btn" class="text-btn" hidden>&#128266; Listen</button>
+        <button type="button" id="next-btn" class="primary">Next &#8629;</button>
+      </div>
+    </div>
+    <div id="hint" class="hint">Type the missing word and press Enter. Press Enter with nothing typed to reveal it.</div>
+  </section>
+
+  <section id="done" class="card done" hidden>
+    <h2>Done for today</h2>
+    <p id="done-summary"></p>
+    <button type="button" id="more-btn" class="primary">Learn 5 more new sentences</button>
+  </section>
+</main>
+
+<div id="settings" class="settings" hidden>
+  <div class="settings-panel">
+    <h2>Settings</h2>
+    <label>New sentences per day <input type="number" id="new-per-day" min="0" max="100"></label>
+    <label><input type="checkbox" id="auto-audio"> Read the sentence aloud after checking</label>
+    <label><input type="checkbox" id="show-first"> Show the English before answering</label>
+    <hr>
+    <div class="settings-row">
+      <button type="button" id="export-btn" class="text-btn">Export progress</button>
+      <label class="text-btn">Import progress <input type="file" id="import-file" accept="application/json" hidden></label>
+      <button type="button" id="reset-btn" class="text-btn danger">Reset this language</button>
+    </div>
+    <div class="settings-row">
+      <button type="button" id="close-settings" class="primary">Close</button>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

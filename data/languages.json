@@ -1,0 +1,4 @@
+[
+  {"code": "de", "name": "German", "tts": "de-DE", "cards": "data/de/cards.json"},
+  {"code": "pt", "name": "Portuguese", "tts": "pt-PT", "cards": "data/pt/cards.json"}
+]
