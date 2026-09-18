@@ -24,7 +24,17 @@ cd simple_language_learning
 python3 -m http.server 8000
 ```
 
-Then open http://localhost:8000. Any static host (GitHub Pages, Netlify, etc.) works too.
+Then open http://localhost:8000.
+
+## Deployment
+
+The site is hosted on Railway at https://web-production-bef70.up.railway.app.
+`Dockerfile` serves the static files with Caddy; Railway builds it on each push
+to `main` once the GitHub repo is connected to the `web` service. To deploy the
+working directory directly instead: `railway up --service web`.
+
+Progress lives in each visitor's browser (localStorage), so there are no
+accounts and nothing is stored on the server.
 
 ## Layout
 
